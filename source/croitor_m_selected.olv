@@ -1,0 +1,871 @@
+---
+algebraic:
+  black: [Kg4, Pg6]
+  white: [Kh6, Qh2, Sf7, Sd2, Pg3]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2006'
+distinction: !!python/unicode '2nd Commendation'
+solution: !!python/unicode "1.Ng5?? (2.Qh3#)\nbut 1...Kf5!\n\n1.Nd6?? (2.Qh4#)\nbut\
+  \ 1...g5!\n\n1.Kh7?? zz\n   1...g5 2.Nh6#\nbut 1...Kf5!\n\n1.Kg7! zz\n   1...Kf5\
+  \ 2.Qh3#\n   1...g5 2.Nh6#"
+source: Рыбинск 7 дней
+stipulation: '#2'
+---
+algebraic:
+  black: [Kf3, Pf5]
+  white: [Kg1, Qg8, Bd6, Sd7]
+authors: ['Кройтор, Михаил Васильевич']
+comments: [!!python/unicode 'Anticipated 125710']
+date: '2006'
+distinction: !!python/unicode '1st Honorable Mention'
+solution: !!python/unicode "1.Bd6-f4 ! zugzwang.\n      1...Kf3-e4 \n          2.Qg8-c4\
+  \ + \n              2...Ke4-f3 \n                  3.Sd7-e5 # \n      1...Kf3*f4\
+  \ \n          2.Kg1-f2 zugzwang.\n              2...Kf4-e4 \n                  3.Qg8-c4\
+  \ # \n      1...Kf3-e2 \n          2.Qg8-d5 zugzwang.\n              2...Ke2-e1\
+  \ \n                  3.Qd5-d2 #"
+source: Рыбинск 7 дней
+stipulation: '#3'
+---
+algebraic:
+  black: [Kc4, Bd2, Pd4, Pd3, Pc5, Pb3]
+  white: [Kc6, Qa1, Rf1, Pg2, Pc3, Pb2, Pa3]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2009'
+distinction: Commendation, e.a. Рыбинск 7 дней - 10 лет
+keywords: [Active sacrifice, Annihilation]
+solution: !!python/unicode "1... Bf4 2.Rxf4\n1.Rf4! ZZ\n  1... Bxf4 2.Qf1! B~ 3.Qf7#\n\
+  \  1... Bxc3 (c1) 2.Q(x)c1\n  1... Be3 2.Qe1"
+source: Рыбинск 7 дней
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd5, Pe5, Pd4, Pc5]
+  white: [Kf6, Qd3, Ba4, Se8]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2007'
+keywords: [2 flights giving key, Switchback]
+solution: !!python/unicode "1.Bb5?? zz\n   1...e4 2.Qc4#\nbut 1...c4!\n\n1.Qf3+??\n\
+  \   1...Kc4 2.Qb3#\nbut 1...e4!\n\n1.Qe2?? zz\n   1...c4 2.Qxe5#\n   1...d3 2.Qxd3#\n\
+  but 1...e4!\n\n1.Qf5?? zz\n   1...c4 2.Qxe5#\n   1...d3 2.Qxd3#\nbut 1...Kc4!\n\n\
+  1.Qb5?? zz\n   1...d3 2.Qxd3#\n   1...e4 2.Bb3#\nbut 1...Ke4!\n\n1.Qa6?? (2.Bc6#)\n\
+  \   1...d3 2.Qxd3#\n   1...c4 2.Qc6#\nbut 1...Ke4!\n\n1.Qg3! zz\n   1...Ke4 2.Bc6#\n\
+  \   1...Kc4 2.Qb3#\n   1...c4 2.Qxe5#\n   1...d3 2.Qxd3#\n   1...e4 2.Qg8#"
+source: !!python/unicode 'Mat Plus'
+source-id: !!python/unicode '28/801'
+stipulation: '#2'
+---
+algebraic:
+  black: [Kg3, Qc8, Rf4, Ph5, Pe3, Pc4]
+  white: [Kh1, Qg7, Ph4, Pg5, Pf5, Pe2, Pd5, Pc3, Pc2, Pb7]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2007'
+distinction: !!python/unicode '6th-9th Honorable Mention'
+solution: !!python/unicode '1. Qe5 (1. Kg1 $2 Rf1+ 2. Kxf1 Qxf5+ $19) 1... Qb8 $1
+
+  (1... Qxb7 2. Qxe3+ Kg4 3. Kh2 $1 $18) 2. Qxb8 Kh3 3.
+
+  Kg1 (3. Qxf4 $5 {stalemate}) 3... Rg4+ 4. Kf1 Rf4+ 5.
+
+  Ke1 Rg4 6. Qf4 $1 (6. Qg3+ $5 Rxg3 7. Kf1 Kh2 8. b8=Q
+
+  Kh1 9. Qxg3 { stalemate}) 6... Rxf4 7. b8=Q Rg4 8. Kf1
+
+  Rf4+ 9. Kg1 Rg4+ 10. Kh1 Rg2 ({Main} 10... Rf4 11. Qb1
+
+  $18 {possible because wP is not on b7}) 11. f6 Rxe2
+
+  12. Qc8+ Kg3 13. Qc7+ Kh3 14. Qd7+ Kg3 15. Qd6+ Kh3
+
+  16. Qe6+ Kg3 17. Qe5+ Kh3 18. Qf5+ Kg3 19. Kg1 {(Qf1)+-.
+
+  The good play with logical elements, but there are many
+
+  technical pawns... In spite of this, the young author
+
+  made some success.} 1-0'
+source: ЮК "Акобия-70"
+stipulation: +
+---
+algebraic:
+  black: [Kf8, Pg5, Pg3, Pe2, Pd6]
+  white: [Kg6, Rd5, Sf5, Pa5]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2007'
+distinction: !!python/unicode '1st Commendation'
+solution: !!python/unicode '1. Rb5 $1 (1. Rxd6 $2 e1=Q 2. Rd8+ Qe8+ 3. Rxe8+ Kxe8
+
+  4. Nxg3 Kd7 5. Ne2 g4 6.
+
+  Kf5 g3 7. Ke4 g2 8. Kd5 Kc7
+
+  9. Kc5 Kb7 10. Kb5 $11) 1... e1=Q 2. Rb8+ Qe8+ 3.
+
+  Rxe8+
+
+  Kxe8 4. a6 (4. Nxg3 Kd7 5. Ne2 g4 6. Kf5 g3 7. Ke4 g2
+
+  8. Kd5 Kc7 $11)
+
+  4... g2 5. a7 g1=Q 6. a8=Q+ Kd7 7.
+
+  Qb7+ Ke6 8. Nd4+ Qxd4 9. Qf7+ Ke5 10. Qf5#
+
+  1-0'
+source: !!python/unicode 'JT Dvoretsky-60'
+stipulation: +
+---
+algebraic:
+  black: [Ka6, Re6, Re5, Pg4, Pf3, Pc2]
+  white: [Kh1, Rc8, Rc5, Pg2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2007-07-11'
+distinction: !!python/unicode 'Commendation'
+keywords: [Meredith]
+solution: !!python/unicode '1.Rxc2 (1.Rxe5 $5 Rxe5 (1...f2 $2 2.Rxe6+ Kb7 3.Rxc2
+
+  f1=Q+ 4.Kh2 g3+ 5.Kxg3 Qd3+ 6.Kf4 {(Kh2, h4)=}) 2.Rxc2
+
+  Re1+ 3.Kh2 Re2 $19) (1.gxf3 $5 Rxc5 $19) 1...f2 (1...Re1+
+
+  2.Kh2 R1e2 3.Kg3 fxg2 4.R2c6+ Ka5 5.Rc1 $11) 2.Rxf2
+
+  g3 3.Rf1 Rh5+ 4.Kg1 Reh6 5.Rf6+ $1 Rxf6 6.Ra8+ Kb7 7.Ra7+
+
+  Kb8 (7...Kb6 8.Ra6+ $11) 8.Rb7+ $11 1/2-1/2'
+source: !!python/unicode 'Mat Plus'
+source-id: !!python/unicode '27/757'
+stipulation: '='
+---
+algebraic:
+  black: [Ke5, Rd5, Be4, Bb8, Sg6, Sb4]
+  white: [Kh2, Qg1, Rf4, Rf3, Ba2, Sd4, Sb7, Pd2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2009'
+keywords: [2 flights giving key]
+solution: !!python/unicode "1...Nh4/Nh8/Nxf4/Nf8/Ne7 2.Qg7#\n1...Bxf3 2.Qg5#\n\n1.Qg4??\
+  \ (2.Rxe4#)\n   1...Nxf4 2.Qg7#\n   1...Rxd4/Bd3/Bc2/Bb1 2.Qe6#\n   1...Bxf3 2.Qg5#/Qf5#/Rf5#/Nxf3#\n\
+  \   1...Bf5 2.Qxf5#/Rxf5#\nbut 1...Kxd4!\n\n1.Qg5+??\n   1...Bf5 2.Qxf5#/Re3#\n\
+  but 1...Kxd4!\n\n1.Qxg6?? (2.Qg7#/Qf6#/Qxe4#/Rxe4#)\n   1...Kxd4 2.Qxe4#\n   1...Rxd4/Bd3/Bc2/Bb1\
+  \ 2.Qg7#/Qf6#/Qe6#/Qe8#\n   1...Rd6 2.Qxe4#/Rxe4#\n   1...Rd7 2.Qf6#/Qxe4#/Rxe4#\n\
+  \   1...Bxf3 2.Qg5#/Qf6#/Qf5#\n   1...Bf5 2.Qg7#/Qxf5#\nbut 1...Bxg6!\n\n1.Qe1??\
+  \ (2.Rxe4#/Qxe4#)\n   1...Kxd4 2.Qxe4#/Qa1#\n   1...Rxd4 2.Rf5#\nbut 1...Nxf4!\n\
+  \n1.Qe3?? (2.Qxe4#/Rf5#/Rxe4#)\n   1...Nh4/Ne7 2.Qxe4#/Rxe4#\n   1...Rxd4 2.Rf5#\n\
+  but 1...Nxf4!\n\n1.Re3! (2.Rexe4#)\n   1...Kxf4 2.Qg3#\n   1...Kxd4 2.Qa1#\n   1...Nxf4\
+  \ 2.Qg7#\n   1...Rxd4 2.Qg5#"
+source: !!python/unicode 'Mat Plus'
+source-id: !!python/unicode '33/1194'
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd4, Pd2]
+  white: [Kd1, Qf5, Rc2, Pc4]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2008'
+distinction: !!python/unicode '3rd Prize'
+keywords: [Changed play]
+solution: !!python/unicode "1. Rb2? waiting\n1... K:c4 2. K:d2 waiting\n  2... Kd4\
+  \ 3. Rb4#\n1... Ke3 2. Rb3+\n  2... Kd4 3. Qd5#\n1... Kc3! \n\n1. Ra2? waiting\n\
+  1... K:c4 2. Ra4+\n  2... Kc3/b3 3. Qc2#\n1... Ke3 2. Ra3+\n  2... Kd4 3. Qd5#\n\
+  1... Kc3! \n\n1. Qg5! waiting\n1... Ke4 2. Rc3 waiting\n  2... Kd4 3. Qe3#\n1...\
+  \ Kd3 2. Qh4 waiting\n  2... Ke3 3. Rc3#"
+source: ЮК А. Мельничук - 50
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd6, Rh8, Bg3, Bc8, Ph7, Pe6, Pd7, Pb5, Pa7]
+  white: [Kd3, Qc3, Rh6, Bg5, Sb8, Pe3, Pa5]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2007'
+keywords: [Active sacrifice]
+solution: !!python/unicode "1. Rh5! ~2. Qc5+ Kxc5 3. Be7#\n  1. ... Be5 2. Qxe5+ Kxe5\
+  \ 3. Be7#\n  1. ... e5 2. Rh6+ Kd5 3. e4#"
+source: !!python/unicode 'Mat Plus'
+source-id: !!python/unicode '28/815'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd4, Pe6]
+  white: [Kg3, Qc2, Bg8, Sc7, Pf3]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2010'
+distinction: !!python/unicode 'Special Prize'
+keywords: [Flight giving and taking key, Changed mates]
+solution: !!python/unicode "Set play:\n1. ... e5 2. Sd5 ad lib 3. Qc3#\n1. ... Ke3\
+  \ 2. Qd1 ZZ e5 3. Sd5#\nSolution:\n1. Qc1! ZZ\n  1. ... e5 2. Sb5+ Kd3 3. Bc4#\n\
+  \  1. ... Kd3 2. Sxe6 ZZ Ke2 3. Sf4#"
+source: День Шахмат - 2010
+stipulation: '#3'
+---
+algebraic:
+  black: [Ka4, Rg4, Pf5, Pe6, Pd5]
+  white: [Ke3, Rh2, Sg1, Pf4]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2009'
+distinction: !!python/unicode '4th Prize'
+keywords: [Meredith]
+solution: "1.Sf3 d4+! 2.Sxd4 e5 3.fxe5 Re4+ 4.Kd3 Rxe5 5.Kc4 Re3\n  5...Ka3 6.Sb5+\
+  \ +−\n  5...Ka5 6.Sc6+ +−\n6.Rh6 Re5\n  6...Ka3 7.Sc2+ +-\n  6...Ka5 7.Sb3+ +−\n\
+  7.Ra6+ Ra5 8.Rb6! Ra8\n  8...Ka3 9.Rb4/Sb5+ +−\n9.Rb4+ Ka3\n  9...Ka5 10.Sb3/Sc6+\
+  \ +−\n10.Sb5+ Ka2 11.Sc3+ Ka1 12. Rb1#"
+source: !!python/unicode 'Mat Plus'
+source-id: !!python/unicode '33/1247'
+stipulation: +
+---
+algebraic:
+  black: [Kd3]
+  white: [Ka1, Qe1, Sd6, Pe3, Pd2, Pb3, Pb2, Pa3]
+authors: ['Кройтор, Михаил Васильевич']
+comments: [!!python/unicode 'dedicated to Albert Ivanov']
+date: '2010'
+keywords: [Meredith, Model mates]
+solution: !!python/unicode "1.Sf7! \n  1...Kc2 2.Se5! Kxb3 3.Qd1#\n  1...Ke4 2.Qf1!\
+  \ Kd5 3.Qc4#"
+source: !!python/unicode 'Mat Plus'
+source-id: !!python/unicode '37-38/1521'
+stipulation: '#3'
+---
+algebraic:
+  black: [Ke5, Pe7]
+  white: [Kb8, Qg4, Sc8, Sb3]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2011'
+distinction: !!python/unicode 'Honorable mention'
+solution: !!python/unicode "1.Qg4-f3 ! {- zugzwang}\n   1...Ke5-e6\n       2.Sc8-b6\
+  \ \n           2...Ke6-e5\n               3.Sb6-c4 +\n                   3...Ke5-e6\n\
+  \                       4.Sb3-c5 #\n   1...e7-e6\n       2.Qf3-f2 \n           2...Ke5-e4\n\
+  \               3.Sc8-d6 +\n                   3...Ke4-d3\n                    \
+  \   4.Qf2-d2 #\n                   3...Ke4-d5\n                       4.Qf2-c5 #\n\
+  \                   3...Ke4-e5\n                       4.Qf2-d4 #\n           2...Ke5-d5\n\
+  \               3.Qf2-d4 +\n                   3...Kd5-c6\n                    \
+  \   4.Sc8-a7 #"
+source: !!python/unicode 'JT Mohamed Moubarak Ryan 55 (miniatures)'
+stipulation: '#4'
+---
+algebraic:
+  black: [Kd4, Pg5, Pg4, Pe6, Pd6]
+  white: [Kb4, Qe2, Bg3]
+authors: ['Кройтор, Михаил Васильевич']
+comments: [!!python/unicode 'A tribute to Sam Loyd.']
+date: '2010'
+keywords: [Meredith]
+solution: !!python/unicode "1.Qf1!\n  1...d5 2.Qe2 ~ 3.Bf2(Be5)#\n  1...e5 2.Qe2 (~)\
+  \ d5 3.Bf2(Bxe5)#\n      2...e4 3.Qd2#\n      2...Kd5 3.Qc4#\n  1...Ke4 2.Kc3 ~\
+  \ 3.Qd3#\n      2...Ke3 3.Qd3#\n      2...Kd5 3.Qc4#\n  1...Ke3 2.Kc3 Ke4 3.Qd3#"
+source: !!python/unicode 'Mat Plus'
+source-id: !!python/unicode '39-40/1659'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kc3, Sf1, Sc2]
+  white: [Kh8, Ra1, Bc1, Pa3]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2010'
+intended-solutions: 2.1...
+keywords: [Miniature]
+solution: !!python/unicode 'I)
+
+  1.Sb4 Bd2+ 2.Kb2 Rxf1 3.Sa2 Be1 4.Ka1 Bc3#
+
+
+  II)
+
+  1.Sxa3 Be3 2.Sb1 Ra8 3.Kb2 Ba7 4.Ka1 Bd4#'
+source: !!python/unicode 'Mat Plus'
+source-id: !!python/unicode '39-40/1721'
+stipulation: h#4
+---
+algebraic:
+  black: [Ke4, Pd3, Pb5, Pb4]
+  white: [Kd1, Pd2, Pb3, Pb2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2010'
+keywords: [Meredith]
+solution: !!python/unicode '1.Ke4-f3 Kd1-c1   2.Kf3-e2 Kc1-b1   3.Ke2*d2 Kb1-a1   4.Kd2-c2
+  Ka1-a2   5.d3-d2 Ka2-a1   6.d2-d1=Q + Ka1-a2   7.Qd1-d8 Ka2-a1   8.Kc2*b3 Ka1-b1   9.Kb3-a4
+  Kb1-a2  10.Qd8-a5 b2-b3 #'
+source: !!python/unicode 'Mat Plus'
+source-id: !!python/unicode '39-40/1724'
+stipulation: h#10
+---
+algebraic:
+  black: [Kd3, Pd2, Pb7]
+  white: [Ka1, Pb3, Pb2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2011'
+keywords: [Black underpromotion, Model mates]
+solution: !!python/unicode "1.b7-b6 b3-b4   2.Kd3-c4 b4-b5\n  3.Kc4-b4 Ka1-a2   4.Kb4-a5\
+  \ Ka2-b3\n    5.d2-d1=B + Kb3-c4   6.Bd1-a4 b2-b4#"
+source: Проблеміст України
+source-id: !!python/unicode '4/H166'
+stipulation: h#6
+---
+algebraic:
+  black: [Kd4, Rd1, Be1, Pf3]
+  white: [Kc6, Qc2, Bh6, Sf7, Pg3]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2002'
+distinction: !!python/unicode 'Special HM'
+keywords: [2 flights giving key]
+solution: !!python/unicode "1.Ng5! ~ 2.Nxf3#\n  1... Ke3 2.Ne6#\n  1... Ke5 2.Bg7#\n\
+  \  1... Rd3 2.Qc5#\n  1... Bc3 2.Qe4#"
+source: Задачи и этюды
+source-id: !!python/unicode '27/1441'
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd4, Bg4, Pd5, Pc3]
+  white: [Kf2, Bd6, Bd3, Sg5, Pc2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2002'
+keywords: [Anderssen's mate, Switchback, Indian]
+solution: !!python/unicode "1... B~ 2.Ne6/f3#\n\n 1.Bf1! (2.Bd3)\n   1... Bd1(f3,h5)\
+  \ 2.Ne6+ Ke4 3.Bd3#\n   1... Bh3(f5,e6,d7,c8) 2.Nf3+ Ke4 3.Bd3#\n   1... Be2! 2.Kxf2!\
+  \ Kc4 3.Ke3#"
+source: Задачи и этюды
+stipulation: '#3'
+---
+algebraic:
+  black: [Kf5, Pc3]
+  white: [Kb8, Qg2, Bd6, Ph3, Pe2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2010'
+distinction: !!python/unicode 'Prize'
+keywords: [Model mates]
+solution: !!python/unicode "1. Qg8! \n1... c2 2. Qf7+ (~)\n  2... Kg5 3. Bf4+\n  \
+  \   3... Kh4 4. Qh7#\n  2... Ke4 3. Qf3+\n     3... Kd4 4. Qd3#\n1... Kf6 2. e4\
+  \ waiting\n  2... c2 3. e5+\n     3... Kf5 4. Qg4#\n1... Ke4 2. Qg5 [3. Qe5#]\n\
+  \  2... Kd4 3. Qc5+\n     3... Ke4 4. Qe5#"
+source: Задачи и этюды
+source-id: !!python/unicode '3857'
+stipulation: '#4'
+---
+algebraic:
+  black: [Kb3, Qc1, Qa3]
+  white: [Kh8, Qa1]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2009'
+distinction: !!python/unicode '5th Prize'
+solution: !!python/unicode '1.Kb3-c4 Kh8-g7 2.Qa3-d3 Qa1-a5 3.Kc4-d4 Kg7-f6 4.Qc1-c4
+  Qa5-e5 #'
+source: !!python/unicode 'http://popovgl.narod.ru'
+source-id: !!python/unicode '1.82.2'
+stipulation: h#4
+---
+algebraic:
+  black: [Kg3, Rg2, Ra8, Ph3, Pg4, Pd3]
+  white: [Ke1, Ra4, Bb6, Ph6, Pg6, Pg5, Pe2, Pd2, Pa7, Pa6]
+authors: ['Дидух, Сергій Ігорович', 'Кройтор, Михаил Васильевич']
+date: '2009'
+distinction: !!python/unicode '1st Prize'
+keywords: [White underpromotion]
+solution: !!python/unicode "1. Bc7+ Kh4 2. g7! \n    (2. exd3? Kxg5 3. g7 Kxh6 4.\
+  \ Be5 h2 5. Bxh2 g3)\n    (2. h7? Rxe2+ 3. Kf1 Rae8 4. Ra1 Rf8+) \n2... Re8! \n\
+  \    (2... Rxe2+ 3. Kf1 h2 \n        (3... Rae8 4. Ra1 h2 \n             (4... g3\
+  \ 5. Ra4+) \n        5. Bxh2 g3 6. a8=Q!) \n    4. Bxh2 Rc8 5. Ra1 Rxh2 6. h7 Kg3\
+  \ 7. h8=Q Rcxh8 8. gxh8=Q Rxh8 9. Kg1)\n    (2... Rxa7 3. Bf4! Rxe2+ 4. Kd1 Re8\
+  \ 5. Kc1) \n3. e3 h2 4. Bxh2 Rc8! 5. Ra1 Rxh2 \n    (5... Re2+!? 6. Kf1 Rxh2 7.\
+  \ h7 Kg3 8. h8=R $1 Rf8+! 9. gxf8=B! \n        (9. gxf8=N!) \n        (9. Kg1? Rg2+\
+  \ 10. Kh1 Rh2+ 11. Rxh2 Rf1+ 12. Rxf1)) \n6. h7 Kg3 7. h8=R! \n    (7. h8=Q $2 Rc1+\
+  \ 8. Rxc1 Rh1+ 9. Qxh1) \n7... Rcxh8 8. gxh8=R! Rxh8 9. a8=B! Rxa8 10. a7 Rh8 \n\
+  \    (10... Kh2 11. g6 g3 12. g7 g2 13. Kf2) \n11. a8=B! 1-0"
+source: !!python/unicode 'Tel Aviv - 100'
+stipulation: +
+---
+algebraic:
+  black: [Kd6, Ba4, Sc8, Pg2, Pf4]
+  white: [Ke2, Bf3, Se5, Ph4]
+authors: ['Кройтор, Михаил Васильевич', 'Дидух, Сергій Ігорович']
+date: '2009-07-05'
+distinction: !!python/unicode '2nd Honorable Mention'
+solution: !!python/unicode "1. Nc4+! \n  (1. Nf7+?! Ke7 2. Bxg2 Kxf7 3. Bh3 Ne7 4.\
+  \ Kf3 Ng6 5. h5 Bd1+ 6. Ke4 Bxh5) \n1... Kc5 2. Bxg2 Kxc4 3. Bh3! Ne7 4. Kf3 Ng6\
+  \ 5. h5 Bd1+ 6. Ke4 Bxh5 7. Bg4! \n  (7. Be6+?! Kc3! 8. Bf7 Kd2! 9. Bxg6 f3! 10.\
+  \ Bf5 Ke2 11. Bh3 Kf2 12. Kf4 Kg1 13. Kg3 f2 -+) \n7... Bxg4 ="
+source: !!python/unicode 'Olimpiya dunyasi'
+stipulation: '='
+---
+algebraic:
+  black: [Kh8, Rd3, Pg7, Pf6, Pf2, Pe2, Pc4]
+  white: [Kf5, Re5, Se6, Pg6, Pf3, Pc3]
+authors: ['Дидух, Сергій Ігорович', 'Кройтор, Михаил Васильевич']
+date: '2009'
+distinction: !!python/unicode '1st HM'
+solution: !!python/unicode "1. Ra5! \n    (1. Rc5? Rxf3+ 2. Nf4 Rxf4+ 3. Ke6 Re4+\
+  \ 4. Kf7 Re7+ 5. Kxe7 e1=Q+\n    6. Kf7 Qe8+ 7. Kxe8 f1=Q 8. Kf7 Qf5 9. Rxf5 {stalemate})\n\
+  1... Rxf3+ 2. Nf4 Rxf4+ 3. Ke6 Re4+ 4. Kf7 Re7+ 5. Kxe7 e1=Q+ \n6. Kf7 Qe8+ 7. Kxe8\
+  \ f1=Q 8. Kf7 Qh1 9. Rb5 Qh2 10. Rc5 Qh3 \n11. Rd5 Qd3 12. Rh5#"
+source: !!python/unicode 'Kopnin 90 MT'
+stipulation: +
+---
+algebraic:
+  black: [Kc6, Re3, Bh2, Se5]
+  white: [Kb4, Pd4, Pc3]
+authors: ['Кройтор, Михаил Васильевич', 'Жилко, Дмитрий Витальевич']
+date: '2011'
+distinction: !!python/unicode 'Commendation'
+solution: !!python/unicode "1.Sd7 c4 2.Bc7 c5 3.Rb3+ Kc4 4.Rb7 d5# \n1.Kd5 Kb3 2.Sc6\
+  \ Kc2 3.Re6 Kd3 4.Bd6 c4#"
+source: JT "Юрий Белоконь-60"
+stipulation: h#4
+---
+algebraic:
+  black: [Ke8, Ra8, Sd8, Ph5, Pg5, Pe3, Pd4, Pc3, Pb6, Pa3]
+  white: [Ke1, Ra1, Pe2, Pd3, Pc2, Pb3, Pa2]
+authors: ['Кройтор, Михаил Васильевич']
+comments: [!!python/unicode 'http://popovgl.narod.ru/Bliz/Bliz-32-itog.html']
+date: '2012-05-06'
+distinction: !!python/unicode '7th Place'
+keywords: [Castling]
+solution: !!python/unicode '1.Nb7 O-O-O 2.O-O-O Rf1 3.Kb8 Rf6 4.Ka8 Rxb6 5.Rb8 Ra6#'
+source: !!python/unicode 'TT-32, SuperProblem'
+stipulation: h#5
+---
+algebraic:
+  black: [Ke4, Pd7, Pd6]
+  white: [Kd2, Qf6, Bd4]
+authors: ['Кройтор, Михаил Васильевич']
+comments: [!!python/unicode 'http://popovgl.narod.ru/Bliz/Bliz-35-itog.html']
+date: '2012-05-19'
+distinction: !!python/unicode '1st Commendation'
+keywords: [Model mates]
+solution: !!python/unicode "1.Kc3! (2.Qf7 d5 3.Qf2 d6 4.Kb3 Kd3 5.Qe3#)\n  1... Kd5\
+  \ 2.Qf3+ Ke6 3.Bg7 Ke7 4.Qf6+ Ke8 5.Qf8#"
+source: !!python/unicode 'TT-35, SuperProblem'
+stipulation: '#5'
+---
+algebraic:
+  black: [Kc1, Rc2, Pf4, Pd2, Pb4, Pa3]
+  white: [Ka1, Rb2, Pf3, Pf2, Pb3, Pa2]
+authors: ['Кройтор, Михаил Васильевич']
+date: 2012-04
+distinction: !!python/unicode '2nd HM'
+options: [SetPlay]
+solution: !!python/unicode '1... Rb1#
+
+
+  1)  1.Kd1 Kb1 2.Ke2 K:c2 3.Ke1 Kd3 4.Kd1 Rb1#
+
+
+  2)  1.Rc3 Rb1+ 2.Kc2 Re1 3.Rd3 Re4 4.Kc3 Rc4#'
+source: 8° ECSC, Kiev (H#n)
+stipulation: h#4
+---
+algebraic:
+  black: [Kd4, Bc7, Bc4, Se6, Se3, Pd3]
+  white: [Kb2, Sf6, Pe7]
+authors: ['Туревский, Дмитрий Евгеньевич', 'Кройтор, Михаил Васильевич']
+date: 2012-04
+distinction: !!python/unicode '2nd HM'
+keywords: [White underpromotion]
+solution: !!python/unicode '1.Se6-d8 e7*d8=B   2.Bc7-e5 Bd8-b6 #
+
+  1.Bc7-d8 e7*d8=S   2.Se6-c5 Sd8-c6 #'
+source: ТТ Ясиноватая 21
+stipulation: h#2
+---
+algebraic:
+  black: [Ke4, Rd8, Rd7, Bc5, Pf7]
+  white: [Kg4, Bf4, Pf6]
+authors: ['Кройтор, Михаил Васильевич']
+date: 2012-04
+distinction: !!python/unicode 'Special HM'
+solution: !!python/unicode "1.Bc5-e7 f6*e7   2.Rd7-d3 e7-e8=S   3.Rd8-d4 Se8-f6 #\
+  \ \n1.Rd7-e7 f6*e7   2.Rd8-d3 e7-e8=B   3.Bc5-d4 Be8-c6 #"
+source: ТТ Ясиноватая-21
+stipulation: h#3
+---
+algebraic:
+  black: [Ke4, Pd7, Pd6]
+  white: [Ka2, Qf7, Rd1, Pd4]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2011-06-02'
+distinction: !!python/unicode '1st Comm.'
+solution: "1.Qf1! – zz;\n  1... d5 2.Rd3 d6 3.Qf3#,\n  1... Kd5 2.Qf3+ Ke6 3.Re1#,"
+source: !!python/unicode 'http://chessstar.com'
+source-id: !!python/unicode '230'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kc4, Pe4, Pc5]
+  white: [Kf6, Qe3, Bc6]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2010-08-18'
+distinction: !!python/unicode '2nd Comm.'
+solution: !!python/unicode "Try: 1.Be8? Kb4!\n1.Ba4 ZZ \n  1...Kb4 2.Qb3+ Ka5 3.Qb5#\n\
+  \  1...Kd5 2.Qc3 \n    2... e3 3.Qd3# \n    2... c4 3.Qe5#"
+source: !!python/unicode 'http://chessstar.com'
+source-id: !!python/unicode '94'
+stipulation: '#3'
+---
+algebraic:
+  black: [Ke4, Pd5]
+  white: [Ka3, Qg3, Rb4, Pd4]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2010-08-18'
+distinction: !!python/unicode '3rd Comm.'
+solution: !!python/unicode "1.Rb7 ZZ \n  1...Kxd4 2.Rb4+ Kc5 3.Qc7#\n  1...Kf5 2.Rf7+\
+  \ \n    2... Ke6 3.Qg6# \n    2... Ke4 3.Rf4#"
+source: !!python/unicode 'http://chessstar.com'
+source-id: !!python/unicode '95'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd4, Pc7, Pc6]
+  white: [Kc1, Qd8, Bc2, Sd5, Pg2, Pe4]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2012-08-30'
+distinction: !!python/unicode '5th Comm.'
+solution: !!python/unicode "1. Qa8! [2. Qxc6 [3. Qc3#]\n  2. ... Ke5 3. Qf6#]\n1.\
+  \ ... cxd5 2. Qxd5+\n  2. ... Ke3 3. Qd2#\n  2. ... Kc3 3. Qc5#\n1. ... c5 2. Qa1+\n\
+  \  2. ... Kc4 3. Qa4#\n   2. ... Kd4 3. Qc3#\n1. ... Kc5 2. Qa3+\n  2. ... Kb5 3.\
+  \ Bd3#\n  2. ... Kc4 3. Qb4#\n  2. ... Kd4 3. Qc3#"
+source: Гравюра
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd4, Pb5]
+  white: [Kg4, Qh8, Re5, Ba2]
+authors: ['Кройтор, Михаил Васильевич']
+comments: [!!python/unicode 'http://www.chessstar.com/images/news/composition/latest_news/results_tournaments/jt_kojakina-20_3.PDF']
+date: '2011'
+distinction: !!python/unicode '2nd HM'
+keywords: [Echo mates]
+solution: !!python/unicode "1. Qc8! waiting\n1... b4 2. Qc4+\n  2... K:e5 3. Qf4#\n\
+  1... Kd3 2. Bb1+\n  2... Kd4 3. Qc5#\n  2... Kd2 3. Qc2#\n1... K:e5 2. Qc5+\n  2...\
+  \ Ke4 3. Bb1#\n  2... Kf6 3. Qg5#"
+source: ЮК А. Кожакиной - 20, Кудесник
+source-id: !!python/unicode '47'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kc6]
+  white: [Kc1, Qf7, Bd3, Pb4]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2012'
+distinction: !!python/unicode 'Commendation'
+solution: !!python/unicode "1.Qf7-e7 ! threat: 2.Bd3-e4 + Kc6-b5 3.Kc1-b2 ZZ\n   \
+  \                 3...Kb5-a4 4.Be4-c6 # \n                    3...Kb5-b6 4.Qe7-b7\
+  \ # \n                    3...Kb5-a6 4.Qe7-b7 # \n                    3...Kb5-c4\
+  \ 4.Qe7-c5 # \n            2...Kc6-b6 3.Qe7-b7 # \n    1...Kc6-d5 2.Bd3-b5 ZZ Kd5-d4\
+  \ 3.Qe7-e6 ZZ Kd4-c3 4.Qe6-c4 #"
+source: ЮК Алена Кожакина - 20
+stipulation: '#4'
+---
+algebraic:
+  black: [Kd5, Ph3]
+  white: [Kb1, Qh1, Re4, Bd4, Sb5]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2012'
+distinction: !!python/unicode '5th Prize'
+solution: !!python/unicode "1.Sb5-a7 ! zugzwang.\n    1...Kd5-d6 2.Re4-e8 ~ 3.Qh1-c6\
+  \ # \n    1...h3-h2 2.Bd4-b6 ZZ Kd5-d6 3.Qh1-d1 # \n    1...Kd5-c4 2.Qh1*h3 ZZ\n\
+  \            2...Kc4-b4 3.Bd4-b6 # \n            2...Kc4-d5 3.Qh3-e6 #"
+source: ЮК Алена Кожакина - 20
+stipulation: '#3'
+---
+algebraic:
+  black: [Kf8, Qa3, Ph4]
+  white: [Kh7, Re1, Bf1, Pd6]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2012'
+distinction: !!python/unicode 'Commendation'
+solution: !!python/unicode "1.d7! Qa8 \n  (1... Qe7+ 2.Rxe7 Kxe7 3.Bh3 +-) \n2.Bb5\
+  \ Kf7 3.Re8 Qd5! 4.Bc4! \n  (4.Kh6? Qxb5 5.d8Q Qxe8 =)\n4... Qc4 5.Rf8+! \n  (5.d8Q?\
+  \ Qc2+ -+) \n5... Kxf8 6.d8Q+ Kf7 7.Qg8+ +-"
+source: !!python/unicode 'FIDE Olympic Tourney'
+stipulation: +
+---
+algebraic:
+  black: [Ka8, Rd8, Rd5, Be8, Pg4]
+  white: [Kh1, Rf2, Rc2, Sb8, Pg2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2006-12-23'
+distinction: !!python/unicode 'Honorable Mention'
+solution: !!python/unicode "1. Na6! \n  (1. Nc6? Bxc6 2. Rxc6 g3 3. Rf1 Rh5+ 4. Kg1\
+  \ Rdh8 5. Rf8+! Rxf8 6.\nRa6+ Kb7 7. Rb6+ Kc7 (7... Kxb6?) 8. Rc6+ Kd7 9. Rd6+ Ke7\
+  \ 10. Re6+ Kf7 11.\nRf6+ Kxf6) \n1... Rh5+ 2. Kg1 Rd1+ 3. Rf1 Rxf1+ 4. Kxf1 Bb5+\
+  \ 5. Kf2 Bxa6 6. Kg3 \n (6.Ra2 Kb7 7.Kg3 minor dual)\nRg5 7. Ra2 Kb7 8. Ra4 Be2\
+  \ 9. Re4 Bd1 10. Rd4 Be2 11. Re4 1/2-1/2"
+source: ЮК Разуменко-70
+stipulation: '='
+---
+algebraic:
+  black: [Kf7, Qa2, Ph6, Ph5, Ph4, Pg3, Pe7]
+  white: [Kh7, Qc1, Pc6]
+authors: ['Кройтор, Михаил Васильевич']
+comments: [!!python/unicode 'WCCT9 theme']
+date: '2012'
+distinction: !!python/unicode 'Commendation'
+keywords: [Active sacrifice]
+solution: !!python/unicode "1. c7 Qa6 \n  (1... Qe6 2. Qf1+ Ke8 3. Qb5+ Kf7 4. Qxh5+\
+  \ +-) \n2. Qf4+ Ke8 3. Qf1! Qc6 \n  ({main} 3... Qxf1 4. c8=Q+ Kf7 5. Qg8+ Kf6 6.\
+  \ Qf8+ +-) \n  (3... Qc8 4. Qb5+ Kf7 5. Qxh5+ Kf6 6. Qxh4+ Ke6 7. Qg4+) \n4. Qb5\
+  \ Qxb5 5. c8=Q+ Kf7 6. Qg8+ Kf6 7. Qg6+ Ke5 8. Qxh5+ +-"
+source: Л.Лошинский-Е.Умнов-100 MT
+stipulation: +
+---
+algebraic:
+  black: [Kc2, Pc3]
+  white: [Ke2, Rh1, Ra1, Bc1, Sb1, Pb2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2012'
+distinction: !!python/unicode '4th Commendation'
+keywords: [Homebase]
+solution: !!python/unicode "1.Rh4! \n1...Kxc1 2.Rb4 threat: 3.Sa3# \n  2...cxb2 3.Rc4#\
+  \ \n1...cxb2 2.Rc4+ Kb3 3.Sd2# \n1...Kb3 2.Kd3 threat: 3.Ra3#"
+source: !!python/unicode 'TT-60, SuperProblem'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kf3, Pg5, Pg4]
+  white: [Kh1, Qd4, Rg2, Pg3]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2012'
+distinction: !!python/unicode '2nd Commendation'
+solution: !!python/unicode '1.Rh2! Kxg3 2.Kg1 Kf3 3.Rg2 g3 4.Kf1 g4 5.Rf2+ gxf2 6.Qe5
+  g3 7.Qd4 g2#'
+source: !!python/unicode 'TT-59, SuperProblem'
+stipulation: s#7
+---
+algebraic:
+  black: [Kd5]
+  white: [Kb1, Qc8, Ba1, Sb3]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2012'
+distinction: !!python/unicode '5th HM'
+solution: !!python/unicode "1.Qe8! \n1...Kd6 2.Sa5 \n  2...Kc7 3.Qc6+ \n    3...Kd8\
+  \ 4.Bf6# \n    3...Kb8 4.Qb7# \n  2...Kc5 3.Qb8 Kd5 4.Qe5# \n1...Kc4 2.Qe5 \n  2...Kb4\
+  \ 3.Kc2 \n    3...Ka4/Ka3 4.Qa5# \n    3...Kc4 4.Qc5# \n  2...Kxb3 3.Qb5+ Ka3 4.Bb2#\
+  \ \n  2...Kd3 3.Sd4 threat: 4.Qe2# \n    3...Kc4 4.Qb5#"
+source: ЮК А.Кожакина-20
+stipulation: '#4'
+---
+algebraic:
+  black: [Ke4, Pe5]
+  white: [Kc1, Qf7, Bb6]
+authors: ['Кройтор, Михаил Васильевич']
+comments: [!!python/unicode 'After F.W.Stork, 1887 - 124630']
+date: '2013'
+distinction: !!python/unicode '2nd Honorable Mention'
+solution: !!python/unicode "a) 1.Kb2! ZZ\n  1. ... Kd3 2. Qf3+\n   2. ... Kd2 3. Ba5#\n\
+  \   2. ... Kc4 3. Qb3#\n\nb) 1. Kc1! ZZ\n 1. ... Kd3 2. Qd5+\n  2. ... Kc3 3. Ba5#\n\
+  \  2. ... Ke2 3. Qd1#"
+source: !!python/unicode 'StrateGems'
+source-id: !!python/unicode '61/M1127'
+stipulation: '#3'
+twins: {b: After key}
+---
+algebraic:
+  black: [Kc6, Pd7, Pc7]
+  white: [Ka7, Qg5, Rg6, Pd6]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2012-12-14'
+distinction: !!python/unicode '1st-2nd Prize'
+keywords: [Changed mates]
+solution: !!python/unicode "a) \n1.Rg8! \n  1...Kxd6 2.Rg6#\n  1...cxd6 2.Rc8# \n\n\
+  b) Move g6 f6 \n1.Rf5! \n  1...cxd6 2.Qc1#\n  1...Kxd6 2.Qf6#"
+source: !!python/unicode 'ChessStar'
+source-id: !!python/unicode '456'
+stipulation: '#2'
+twins: {b: Move g6 f6}
+---
+algebraic:
+  black: [Ke6, Qd8, Rh4, Sb8, Pf7, Pc6]
+  white: [Ka2, Qf1, Ra6, Bb4, Pe5, Pd6]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2013'
+distinction: !!python/unicode '50th-62nd Place'
+solution: !!python/unicode "1. Ra7 \n  (1. Ra5 c5 2. Rxc5 Nd7 3. Ra5 Qc8 =) \n1...\
+  \ Nd7 \n  (1... Kd5 2. Qxf7+ +-)\n2. Rxd7! Kxd7 \n  (2... Qxd7 3. Qf6+ Kd5 4. Qxh4\
+  \ +-) \n3. Qf5+ Ke8 4. e6! fxe6 \n  (4... Qa8+ 5. Ba3 fxe6 6. Qxe6+ Kf8 7. d7+ +-)\
+  \ \n5. Qxe6+ Kf8 6. Qc8!! {thematic} Qxc8 7. d7+ +- 1-0"
+source: 9° WCCT 2012 -
+source-id: !!python/unicode 'D08'
+stipulation: +
+---
+algebraic:
+  black: [Kf7, Qb7, Pf6, Pf5]
+  white: [Kh8, Qa4, Pe2, Pd6, Pd5]
+authors: ['Кройтор, Михаил Васильевич']
+comments: [!!python/unicode 'see 284174']
+date: '2013'
+distinction: !!python/unicode '50th-62nd Place'
+solution: !!python/unicode "1. Kh7! Kf8+ 2. d7 \n  (2. Kg6? Qg7+ 3. Kxf5 Qg5+ -+)\
+  \ \n2... Qxd5 \n  (2... Ke7 3.Qc6! Qxd7 4. Qxd7+ Kxd7 5. Kg6 +-) \n3. Qb4+ \n  (3.\
+  \ Qa3+ Kf7 =) \n3... Kf7 4. Qb7!! {thematic} Qxb7 5. d8=N+! Ke7 6. Nxb7 Ke6 7. Kg6\
+  \ Ke5 \n  (7... f4 8. Nd6 (8.Na5)) \n8. Nd6! f4 9. Nc4+ Kd4 10. Kxf6 1-0"
+source: 9° WCCT 2012 -
+source-id: !!python/unicode 'D85'
+stipulation: +
+---
+algebraic:
+  black: [Ka1, Bb2, Ba2, Pd4]
+  white: [Kg6, Qa5, Bd2, Bc2, Pb3]
+authors: ['Кройтор, Михаил Васильевич', 'Мельничук, Александр Николаевич']
+date: '2013'
+distinction: !!python/unicode '5th HM'
+keywords: [Changed play]
+solution: !!python/unicode "1.Qa8! (zz), \n1...Bc1  2.Bxc1  d3  3.Qh8#\n1...Bc3  2.Qh1+\
+  \  Kb2  3.Qc1#\n1...Ba3  2.Qxa3  d3  3.Bc3#\n1...d3 2.Qh1+ Bc1/Bb1 3.Bc3/Qxb1#\n\
+  \n1.Qa6? (zz)\n1...Bc3 2.Qf1+ Kb2 3.Qc1#\n1...Bc1 2.Bxc1 d3 3.Qf6#\n(1...Ba3 2.Qxa3)\n\
+  1...d3!\n\n1.Qa7? (zz)\n1...Bc1 2.Bxc1 d3 3.Qg7#\n1...d3 2.Qg1+ Bb1 3.Qxb1#, 2...Bc1\
+  \ 3.Bc3#\n1...Bc3!"
+source: !!python/unicode 'StrateGems'
+source-id: !!python/unicode 'M1131'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd4, Pe4]
+  white: [Kb5, Qg1, Bg6, Se3, Pd3]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2014'
+distinction: !!python/unicode 'Special HM'
+solution: !!python/unicode "1.Qf2! ZZ\n  1...Kxd3 2.Kc5 \n  1...Ke5 2.Sc4+\n  1...Kc3\
+  \ 2.Sc4\n  1...exd3 2.Qf4+"
+source: !!python/unicode 'StrateGems'
+source-id: !!python/unicode '66/M1218'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd4, Pc6]
+  white: [Kh7, Qb4, Bf1, Sc5, Pc4]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2013'
+distinction: !!python/unicode '2nd Commendation'
+solution: !!python/unicode "1.Sd3! (zz)\n  1...Ke4 2.Qd6 ~ 3.Qg6#\n      2... Kf5\
+  \ 3.Qg6#\n  1...Ke3 2.c5 Kf3 3.Qf4#\n  1...c5 2.Qd2 Ke4 3.Qf4#"
+source: !!python/unicode 'StrateGems (miniatures)'
+source-id: !!python/unicode 'M1148'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd5, Pe5]
+  white: [Kg1, Qc3, Ba3, Sf5]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2013'
+distinction: !!python/unicode '3rd Commendation'
+solution: !!python/unicode "1.Sh4! - zz\n  1...Ke6 2.Qc6+ Kf7 3.Qg6#  (model)\n  1...e4\
+  \ 2.Qc5+ Ke6 3.Qf5#  (model)\n  1...Ke4 2.Qc4+ Ke3 3.Bc1#"
+source: !!python/unicode 'StrateGems (miniatures)'
+source-id: !!python/unicode 'M1147'
+stipulation: '#3'
+---
+algebraic:
+  black: [Ke3, Pc5]
+  white: [Kd5, Qd7, Rc1, Bh5]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2014'
+distinction: !!python/unicode '3rd Comm., for miniatures'
+solution: !!python/unicode '1. Qg7! waiting
+
+  1... c4 2. Qd4#
+
+  1... Kd3/d2 2. Qc3#
+
+  1... Kf2 2. Qg1#
+
+  1... Kf4 2. Qe5#'
+source: !!python/unicode 'ChessStar'
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd5, Qf3, Bb1, Sg1, Sb7, Pg4, Pc6]
+  white: [Kc7, Qd2, Rf4, Ra4, Bh1, Bc3, Sg7, Pd7, Pd4]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2016'
+distinction: !!python/unicode '3rd Place'
+solution: !!python/unicode "1.Re4! threat: 2.Re5# \n1...Qxe4 2.Qg5# \n1...Bxe4 2.Qa2#\
+  \ \n1...Kxe4 2.d5#"
+source: !!python/unicode 'Cupa Bucovinei 2015, "E4 E5"'
+source-id: !!python/unicode '34'
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke5, Ra5, Ra1, Be3, Bc2, Pf3, Pe6, Pc3]
+  white: [Kh3, Qc1, Rb5, Rb4, Bc5, Sf6, Sf2, Pg5, Pg4, Pd2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2016'
+distinction: !!python/unicode '4th Place'
+solution: !!python/unicode "1.d3? threat: 2.Re4#/Qxe3# \n  1...Bxd3 2.Sxd3# \n  1...Bxc5\
+  \ 2.Qf4# \n  1...Rxc1/Bxc1/Bd2 2.Re4# \n  1...Bxf2 2.Re4#/Qf4# \n  1...Bxg5 2.Qxg5#\
+  \ \n  1...Bf4 2.Re4#/d4#/Qxf4# \n  1...R1a4/R5a4 2.Qxe3# \n  but: 1...Bd4! \n\n\
+  1.Rd4? threat: 2.Sd7# \n 1...Be4 2.Rxe4# \n 1...Ra7 2.Bxa7#/Bb6# \n but: 1...Bxd4!\
+  \ \n\n1.S2e4! threat: 2.Bd6# \n  1...Bxe4 2.Rxe4# \n  1...Kf4 2.Bxe3# \n  1...Bxc5\
+  \ 2.d4#"
+source: !!python/unicode 'Cupa Bucovinei 2015, "E4 E5"'
+source-id: !!python/unicode '34'
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd4, Be2, Pd5]
+  white: [Kh8, Qc1, Re8, Sg6, Sf2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2016'
+distinction: !!python/unicode '1st HM'
+keywords: [Changed mates]
+solution: !!python/unicode "1...Be2-c4\n        2.Qc1-e3 #\n\n 1.Re8-e3 ? threat:\n\
+  \        2.Qc1-c3 #\n    1...Be2-d3\n        2.Re3*d3 #\n  but\n    1...Be2-c4 !\n\
+  \n 1.Sg6-e5 ? threat:\n        2.Se5-c6 #\n    1...Be2-b5\n        2.Se5-f3 #\n\
+  \  but\n    1...Be2-c4 !\n\n 1.Sg6-h4 ? threat:\n        2.Sh4-f5 #\n    1...Be2-c4\n\
+  \        2.Qc1-e3 #\n    1...Be2-d3\n        2.Sh4-f3 #\n  but\n    1...Be2-g4 !\n\
+  \n1.Sf2-e4 ! threat:\n        2.Qc1-c3 #\n    1...Be2-d3\n        2.Qc1-c5 #\n \
+  \   1...d5*e4\n        2.Re8-d8 #"
+source: Гравюра-2016
+stipulation: '#2'
+---
+algebraic:
+  black: [Kh4, Qg1, Rh3, Rg3, Sf5, Sf4]
+  white: [Kh7, Rf8, Rf1]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2016'
+distinction: !!python/unicode '5th Commendation'
+keywords: [Umnov, Check avoidance]
+solution: !!python/unicode '1.Sf4-h5 Rf1-f4 +   2.Kh4-g5 Rf8*f5 # {display-departure-rank}
+
+  1.Sf5-h6 Rf8-f5   2.Kh4-g4 Rf1*f4 # {display-departure-rank}'
+source: Гравюра
+stipulation: h#2
+---
+algebraic:
+  black: [Ke4, Rd5, Bb4, Sa2, Pe7, Pe5]
+  white: [Kb8, Qf2, Ra4, Ba8, Sa5, Pc2, Pb3]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2016'
+distinction: !!python/unicode '4th Commendation'
+solution: !!python/unicode "1...Sa2-c1\n        2.Ra4*b4 #\n    1...Sa2-c3\n     \
+  \   2.Ra4*b4 #\n\n 1.Sa5-b7 ? threat:\n        2.Sb7-c5 #\n    1...Rd5-d8 +\n  \
+  \      2.Sb7*d8 #\n  but\n    1...Rd5-b5 !\n\n 1.Sa5-c4 ! threat:\n        2.Sc4-d2\
+  \ #\n    1...Bb4-d6 +\n        2.Sc4*d6 #"
+source: Московский конкурс - 2016
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke6, Rc6, Bc1, Sh1, Pc2]
+  white: [Ke3, Rh7, Ba5, Pg6, Pd2]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2016'
+distinction: !!python/unicode 'Honorable Mention'
+solution: !!python/unicode "{Thematical try} 1.g6-g7 ? Ke6-f7 2.Rh7-h8 Kf7*g7 3.Rh8*h1\
+  \ Bc1-a3 \n 4.Ba5-c3+ Kg7-f7 5.Ke3-d3 c2-c1=Q 6.Rh1*c1 Ba3*c1 7.Kd3-c2 Bc1-a3 8.Kc2-b3\
+  \ Ba3-e7 {-+} \n 1.Rh7*h1? Bc1-b2 {-+}\n\n 1.Rh7-h6 ! Rc6-c5 {}\n {Thematical try}\
+  \ 2.Rh6*h1 Bc1-b2 3.Ba5-c3 c2-c1=Q 4.Rh1*c1 Bb2*c1 {-+}\n 2.g6-g7+ Ke6-f7 3.Rh6-h8\
+  \ ! Kf7*g7 4.Rh8*h1 Bc1-a3\n 5.Ba5-c3+ Kg7-f7 6.Ke3-d3 c2-c1=Q 7.Rh1*c1 Ba3*c1 8.Kd3-c2\
+  \ {=  Positional draw}\n Bc1-a3 9.Kc2-b3 Ba3-c1 10.Kb3-c2 \n 4...Bc1-b2 5.Ba5-c3+\
+  \ Bb2*c3 6.d2*c3 Rc5*c3+ 7.Ke3-d2 {=}"
+source: !!python/unicode 'JT Valerii Kirillov - 65'
+stipulation: '='
+---
+algebraic:
+  black: [Ke6, Re1, Ph5, Pg7, Pg3, Pd6, Pd5, Pc7]
+  white: [Ke8, Rf3, Rb5, Be2, Pg4, Pd4]
+authors: ['Кройтор, Михаил Васильевич']
+date: '2017'
+distinction: !!python/unicode '10th Commendation'
+solution: !!python/unicode "1.Rb5-b2 ! threat:\n        2.Be2-a6 threat:\n       \
+  \         3.Ba6-c8 #\n    1...Re1-d1\n        2.Be2*d1 threat:\n               \
+  \ 3.Rb2-e2 #\n    1...Re1-f1\n        2.Be2*f1 threat:\n                3.Rb2-e2\
+  \ #\n    1...h5*g4\n        2.Rf3-f4 threat:\n                3.Be2*g4 #\n     \
+  \       2...Re1*e2\n                3.Rb2*e2 #\n    1...c7-c5\n        2.Rb2-b7\
+  \ threat:\n                3.Rb7-e7 #"
+source: МК Руденко
+stipulation: '#3'

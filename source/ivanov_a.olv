@@ -1,0 +1,874 @@
+---
+algebraic:
+  black: [Kh8, Rg7]
+  white: [Kf6, Qg1, Bf7, Ph3, Pg6]
+authors: ['Иванов, Альберт Федотович']
+date: '1991'
+keywords: [Black correction]
+solution: !!python/unicode "1.Qa1?? zz\n   1...Rxg6+ 2.Kxg6#\n   1...Rxf7+ 2.Kxf7#\n\
+  \   1...Rh7 2.Qa8#\nbut 1...Rg8!\n\n1.Qd4! zz\n   1...Rxg6+ 2.Kxg6#\n   1...Rg8\
+  \ 2.Qh4#\n   1...Rxf7+ 2.Kxf7#\n   1...Rh7 2.Qd8#"
+source: !!python/unicode 'Mat-Pat'
+source-id: !!python/unicode '30/1696'
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke6, Rd5, Rc4, Bh2, Sh4, Sc7]
+  white: [Kd8, Qd3, Rd7, Bh8, Ba2, Pc5]
+authors: ['Иванов, Альберт Федотович']
+date: '1999'
+solution: !!python/unicode "1...Ng2/Ng6/Nf3 2.Qg6#\n1...Rxd7+ 2.Qxd7#\n1...Rdxc5/Re5/Rf5/Rg5/Rh5\
+  \ 2.Re7#\n1...Ne8/Nb5/Na6/Na8 2.Qxd5#\n\n\n\n1.Qh7! (2.Qf7#)\n   1...Rf4 2.Rd6#\n\
+  \   1...Rxd7+ 2.Qxd7#\n   1...Rf5 2.Qe7#"
+source: Уральский проблемист
+stipulation: '#2'
+---
+algebraic:
+  black: [Kc6, Qf2, Bd6, Sb7, Sb3, Pd3, Pc7]
+  white: [Ke8, Qc4, Re5, Rd8, Bd1, Bb4, Sf5, Sb6, Pc5, Pa7]
+authors: ['Иванов, Альберт Федотович', 'Тимонин, Владимир Ильич', 'Владимиров, Вячеслав
+    Семёнович']
+date: '1966'
+distinction: !!python/unicode '1st Prize'
+keywords: [Defences on same square, Nietvelt, Transferred mates]
+solution: !!python/unicode "1...Qf3/Qd2/Qc2/Qb2/Qa2/Qh2/Qg1 2.Bxf3#[A]\n1...Nc1/Nd2/Na1/N3a5\
+  \ 2.Ba4#[B]\n1...Bxe5/Be7 2.Ne7#[C]\n\n1.Nd7? (2.Nb8#/Qa6#)\n   1...N7xc5 2.a8Q#/a8B#\n\
+  \   1...Nxd8/N7a5 2.Qa6#\n   1...Qa2 2.Bf3#[A]/Nb8#\n   1...Qxc5 2.Bf3#[A]\n   1...N3xc5\
+  \ 2.Ba4#[B]\n   1...Bxe5 2.Ne7#[C]/Nxe5#/Nb8#\nbut 1...Bxc5!\n\n1.Na4? (2.Qa6#)\n\
+  \   1...N7xc5 2.a8Q#/a8B#\n   1...Qxc5 2.Bf3#[A]\n   1...Bxc5 2.Ne7#[C]\nbut 1...N3xc5!\n\
+  \n1.Na8? (2.Qa6#)\n   1...Qa2/Qxc5 2.Bf3#[A]\n   1...Bxc5 2.Ne7#[C]\n   1...N3xc5\
+  \ 2.Ba4#[B]\nbut 1...N7xc5!\n\n\n\n1.Nc8! (2.Qa6#)\n   1...N7xc5 2.a8Q#/a8B#\n \
+  \  1...Qa2/Qxc5 2.Bf3#[A]\n   1...N3xc5 2.Ba4#[B]\n   1...Bxc5 2.Nfe7#"
+source: Тихоокеанский комсомолец
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd5, Bd4, Pe7, Pc5, Pb7]
+  white: [Ka5, Qc8, Rc1, Sg4, Sf5, Pf3, Pd6, Pb6, Pb4, Pb2]
+authors: ['Иванов, Альберт Федотович', 'Лук''янов, Валентин Володимирович', 'Владимиров,
+    Вячеслав Семёнович']
+date: '1967'
+distinction: !!python/unicode '1st Prize'
+keywords: [Flight giving key, Changed mates]
+solution: !!python/unicode "1...exd6[b] 2.Ne7#[C]\n1...e6[c] 2.Qxb7#[D]\n1...e5[d]\
+  \ 2.Nf6#[E]\n\n\n1.Rd1! zz\n   1...exd6[b] 2.Nfe3#[F]\n   1...e6[c] 2.Qxc5#[G]\n\
+  \   1...e5[d] 2.Nge3#[B]\n   1...Kc4 2.Qe6#"
+source: Ленінське плем'я
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke4, Rd8, Bc1, Ba8, Sg1, Ph6, Pe7, Pd4]
+  white: [Kd1, Qb4, Bg7, Be6, Sf5, Sf3, Pg3, Pf2, Pe2]
+authors: ['Иванов, Альберт Федотович', 'Кузнецов, Михаил Павлович']
+comments: [!!python/unicode 'correct (version) - add bPh2', !!python/unicode '326092']
+date: '1967'
+distinction: !!python/unicode '1st Prize'
+keywords: [Cooked, Zagoruiko]
+solution: !!python/unicode "1.Bxd4? (2.Qb1#)\n   1...Rc8[a] 2.Bc5#[A]\n   1...Rb8[b]\
+  \ 2.Bb6#[B]\n     but 1...Nxe2!\n\n1.N3xd4? (2.Qb1#)\n   1...Rc8[a] 2.Nc6#[C]\n\
+  \   1...Rb8[b] 2.Nb5#[D]\n     but 1...Bb2!\n\n1.N5xd4! (2.Qb1#)\n   1...Rc8[a]\
+  \ 2.Nc6#[C]\n   1...Rb8[b] 2.Nb5#[D]\n   1...Rxd4+ 2.Qxd4#\n   1...Bb2 2.Nd2#\n\n\
+  1.Nxg1! (2.f3#)"
+source: Молдавский конкурс
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke4, Qg1, Sb5, Sb3, Ph6, Pg2, Pf4, Pc7, Pc5]
+  white: [Kg6, Qc4, Rh3, Ba4, Se5, Sd1, Pe2, Pd7, Pd6, Pd4, Pc3]
+authors: ['Иванов, Альберт Федотович', 'Тимонин, Владимир Ильич', 'Владимиров, Вячеслав
+    Семёнович']
+date: '1967'
+distinction: !!python/unicode '1st Prize'
+keywords: [Defences on same square, Nietvelt, White combinations]
+solution: !!python/unicode "1. Sc6? [2. Qe6#]\nBut 1... S5:d4! \n\n1. Sd3? [2. Qe6#]\n\
+  But 1... S3:d4! \n\n1. Sf3? [2. Qe6#]\n But 1... Q:d4! \n\n1. Sf7! [2. Qe6#]\n1...\
+  \ S5:d4 2. Bc6#\n1... S:c3 2. S:c3#\n1... f3 2. Rh4#\n1... S3:d4 2. Bc2#\n1... Q:d4\
+  \ 2. Sf2#"
+source: Тихоокеанский комсомолец
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke5, Bh7, Bd8, Se1, Sa5, Pf5, Pf3, Pe7, Pc6, Pa2]
+  white: [Kc3, Qh4, Rg3, Re8, Ba1, Sf4, Sd4, Ph3, Pg5, Pd3, Pd2, Pc5, Pc4, Pb4]
+authors: ['Иванов, Альберт Федотович', 'Чіканов, Микола Олексійович']
+date: '2001'
+keywords: [Black correction, Changed mates, Mutate]
+solution: !!python/unicode "1...Ng2[a]/Nc2[a] 2.Nxf3#[A]\n1...Nxd3[b] 2.Nxd3#[B]\n\
+  1...Nb3[c]/Nb7[c]/Nxc4[d] 2.Nxc6#[C]\n1...Bg6[e]/Bg8[f] 2.Nxg6#[D]\n1...e6 2.Rxe6#\n\
+  1...Bc7/Bb6 2.Rxe7#\n1...f2 2.Re3#\n\n1.g6? zz\n   1...Ng2[a]/Nc2[a] 2.Nxf3#[A]\n\
+  \   1...Nxd3[b] 2.Nxd3#[B]\n   1...Nb3[c]/Nb7[c]/Nxc4[d] 2.Nxc6#[C]\n   1...Bxg6[e]\
+  \ 2.Nxg6#[D]\n   1...e6 2.Rxe6#\n   1...Bc7/Bb6 2.Rxe7#\n   1...f2 2.Re3#\nbut 1...Bg8[f]!\n\
+  \n1.Rg1? (2.Rxe1#)\n   1...Ng2[a]/Nc2[a] 2.Nxf3#[A]\n   1...Nxd3[b] 2.Nxd3#[B]\n\
+  \   1...Nxc4[d] 2.Nxc6#[C]\nbut 1...f2!\n\n1.Rxd8? zz\n   1...Ng2[a]/Nc2[a] 2.Nxf3#[A]\n\
+  \   1...Nxd3[b] 2.Nxd3#[B]\n   1...Nb3[c]/Nb7[c]/Nxc4[d] 2.Nxc6#[C]\n   1...Bg6[e]/Bg8[f]\
+  \ 2.Nxg6#[D]\n   1...f2 2.Re3#\nbut 1...e6!\n\n1.bxa5?? (2.Nxc6#[C])\n   1...Nxd3[b]\
+  \ 2.Nxd3#[B]\nbut 1...Bxa5+!\n\n1.b5?? zz\n   1...Ng2[a]/Nc2[a] 2.Nxf3#[A]\n   1...Nxd3[b]\
+  \ 2.Nxd3#[B]\n   1...Nb3[c]/Nb7[c]/Nxc4[d] 2.Nxc6#[C]\n   1...Bg6[e]/Bg8[f] 2.Nxg6#[D]\n\
+  \   1...Bc7/Bb6 2.Rxe7#\n   1...e6 2.Rxe6#\n   1...f2 2.Re3#\nbut 1...cxb5!\n\n\
+  1.Qxh7?? (2.Qxf5#/Ng6#[D])\n   1...Nxd3[b]/Nxc4[d] 2.Qxf5#\nbut 1...Kxf4!\n\n1.Qg4??\
+  \ zz\n   1...Ng2[a]/Nc2[a] 2.Nxf3#[A]\n   1...Nxd3[b] 2.Nxd3#[B]\n   1...Nb3[c]/Nb7[c]/Nxc4[d]\
+  \ 2.Nxc6#[C]\n   1...Bg6[e] 2.Nxg6#[D]\n   1...Bg8[f] 2.Ng6#[D]/Qxf5#\n   1...f2\
+  \ 2.Re3#\n   1...Bc7/Bb6 2.Rxe7#\n   1...e6 2.Rxe6#\nbut 1...fxg4!\n\n1.Nde2! zz\n\
+  \   1...Ng2[a]/Nc2[a] 2.Kc2#[E]\n   1...Nxd3[b] 2.Kxd3#[F]\n   1...Nb3[c]/Nb7[c]\
+  \ 2.Kxb3#[H]\n   1...Nxc4[d] 2.Kxc4#[I]\n   1...Bg6[e]/Bg8[f] 2.Qh8#[G]\n   1...e6\
+  \ 2.Rxe6#\n   1...Bc7/Bb6 2.Rxe7#\n   1...fxe2/f2 2.Re3#"
+source: !!python/unicode 'Probleemblad'
+stipulation: '#2'
+---
+algebraic:
+  black: [Kb7, Ba8, Sc6, Pf6, Pe5, Pd4, Pb4]
+  white: [Ke4, Rh7, Bb6, Sa4, Pf5, Pd7, Pd5, Pd3, Pb5, Pb3, Pa7]
+authors: ['Иванов, Альберт Федотович']
+date: '1990'
+distinction: !!python/unicode '2nd HM'
+solution: !!python/unicode "1.d5-d6 ! zugzwang.\n      1...Sc6-a5 \n          2.Bb6*a5\
+  \ \n              2...Kb7*a7 # \n      1...Sc6-e7 \n          2.d7-d8=B \n     \
+  \         2...Kb7-c8 # \n      1...Sc6-d8 \n          2.Bb6*d8 \n              2...Kb7*a7\
+  \ # \n      1...Sc6-b8 \n          2.a7*b8=Q + \n              2...Kb7*b8 # \n \
+  \         2.a7*b8=S \n              2...Kb7*b8 # \n          2.a7*b8=R + \n    \
+  \          2...Kb7*b8 # \n          2.a7*b8=B \n              2...Kb7*b8 # \n  \
+  \    1...Sc6*a7 \n          2.Bb6*a7 \n              2...Kb7*a7 #"
+source: Фестиваль «Уральские сказы-90»
+stipulation: s#2
+---
+algebraic:
+  black: [Kc5, Pd7]
+  white: [Ka5, Qh6, Sf4, Sc6, Pb3]
+authors: ['Иванов, Альберт Федотович']
+date: '1957'
+solution: !!python/unicode "1...d7-d5\n        2.Sf4-d3 #\n\n 1.Qh6-f6 ! zugzwang.\n\
+  \    1...d7-d5\n        2.Sf4-d3 #\n    1...d7-d6\n        2.Qf6-c3 #\n    1...d7*c6\n\
+  \        2.Qf6-e5 #"
+source: Молодой сибиряк
+stipulation: '#2'
+---
+algebraic:
+  black: [Kh8, Pd7]
+  white: [Kf8, Re6, Re1, Sc6, Ph7]
+authors: ['Иванов, Альберт Федотович']
+date: '1971'
+distinction: !!python/unicode '1st Special HM'
+keywords: [Pickaninny, Retro]
+solution: !!python/unicode '0. ... dxc6 1. R:c6 K:h7 2. Rh1#
+
+  0. ... d6 1. R:d6 K:h7 2. Rh1#
+
+  0. ... dxe6 1. Se5 K:h7 2. Rh1#
+
+  0. ... d5 1. Sd4 K:h7 2. Rh1#'
+source: «64»
+stipulation: '#2'
+---
+algebraic:
+  black: [Kf3, Rh3, Bh1, Sh2, Sg1, Ph4, Pf5, Pc4]
+  white: [Ka1, Qd1, Rg5, Re2, Bb8, Sf2, Pe4]
+authors: ['Иванов, Альберт Федотович']
+date: '1962'
+distinction: !!python/unicode '2nd Prize'
+keywords: [Black correction]
+solution: !!python/unicode "1...c3 2.Qd3#\n1...Bg2 2.Rxf5#\n\n1.Nd3?? (2.Ne1#)\n \
+  \  1...cxd3 2.Qxd3#\nbut 1...Nxe2!\n\n1.Re1+??\n   1...Ne2 2.Qxe2#\nbut 1...Kxf2!\n\
+  \n1.Re3+??\n   1...Kxf2 2.Qe1#/Qxg1#\nbut 1...Kxe3!\n\n1.Rd2+??\n   1...Ne2 2.Qxe2#\n\
+  but 1...Ke3!\n\n1.Rc2+??\n   1...Ne2 2.Qxe2#\nbut 1...Ke3!\n\n1.Rb2+??\n   1...Ne2\
+  \ 2.Qxe2#\nbut 1...Ke3!\n\n1.Ra2+??\n   1...Ne2 2.Qxe2#\nbut 1...Ke3!\n\n1.Ng4!\
+  \ zz\n   1...c3 2.Qd3#\n   1...Nxg4/fxg4 2.Rxf5#\n   1...Nf1 2.Qxf1#\n   1...Nxe2\
+  \ 2.Qxh1#\n   1...Bg2 2.Re3#\n   1...Rg3 2.Nxh2#\n   1...fxe4 2.Rf2#\n   1...f4\
+  \ 2.Ne5#"
+source: !!python/unicode 'Sowjetisches Turnier'
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke4, Rh6, Be6, Bd4, Sd5, Pg3, Pd3]
+  white: [Kb3, Qc6, Re8, Rb7, Bg7, Ba8, Sh5, Sa2, Pg4, Pg2, Pf2, Pc3]
+authors: ['Иванов, Альберт Федотович']
+date: '1967'
+distinction: !!python/unicode '1st Prize'
+keywords: [Black correction, Transferred mates]
+solution: !!python/unicode "1...Be3 2.f3#[A]\n1...Bxc3 2.Nxc3#[B]\n\n1.Rb4?? (2.Rxd4#/Qxd5#)\n\
+  \   1...d2/Rxh5 2.Rxd4#\n   1...Rf6 2.Qxd5#\nbut 1...gxf2!\n\n1.Rxe6+??\n   1...Be5\
+  \ 2.Rb4#/Qc4#/Rxe5#\nbut 1...Rxe6!\n\n1.Qxe6+??\n   1...Be5 2.Rb4#/Qxe5#/Qf5#\n\
+  but 1...Rxe6!\n\n1.Qc4! (2.Qxd4#)\n   1...Ne3 2.f3#[A]\n   1...Ne7 2.Rbxe7#\n  \
+  \ 1...Nf4 2.Nxg3#\n   1...Nf6 2.Rxe6#\n   1...Nxc3 2.Nxc3#[B]\n   1...Nc7 2.Rxc7#\n\
+  \   1...Nb4 2.Rxb4#\n   1...Nb6 2.Rxb6#"
+source: !!python/unicode 'Sowjetisches Turnier'
+stipulation: '#2'
+---
+algebraic:
+  black: [Kc6, Rd5, Ph3, Pe7, Pd7, Pa7, Pa6]
+  white: [Kg1, Qh2, Rb7, Be4, Sd6, Sb3, Pf6, Pe2, Pa5]
+authors: ['Иванов, Альберт Федотович']
+date: '1967'
+distinction: !!python/unicode '1st Prize'
+solution: !!python/unicode "1. e3! - zz\n1... e:f6 2. Rb8  Kc7 3. Rc8#\n1... e:d6\
+  \ 2. Sc5 - zz\n    2... K:c5 3. Qc2#\n    2... d:c5 3. Qc7#\n1... e6 2. Qc2+  K:d6\
+  \ 3. Qc7#\n1... e5 2. Q:h3  K:d6 3. Q:d7#"
+source: !!python/unicode 'Kishinev-Nikolaev'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd5, Sf5, Sd6, Ph6, Pg7, Pf3, Pe3, Pd4]
+  white: [Kf8, Qg1, Rd7, Rd3, Bf6, Ba8, Sb7, Sa5, Pf4]
+authors: ['Иванов, Альберт Федотович', 'Марандюк, Михайло Назарович', 'Кузнецов, Михаил
+    Павлович']
+date: '1969-11-30'
+distinction: !!python/unicode '1st HM'
+keywords: [Lacny]
+solution: !!python/unicode "1.Qg4? (2.Qxf5#)\n   1...Ke4[a] 2.Nc5#[A]\n   1...Ke6[b]\
+  \ 2.Rxd6#[B]\n   1...Ng3[c]/Nh4[c]/Ne7[c] 2.Rxd4#[C]\nbut 1...g6!\n\n1.Qg6! (2.Qxf5#)\n\
+  \   1...Ke4[a] 2.Rxd4#[C]\n   1...Ke6[b] 2.Nc5#[A]\n   1...Ng3[c]/Nh4[c]/Ne7[c]\
+  \ 2.Rxd6#[B]"
+source: Советская Молдавия
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd5, Pe6, Pe5, Pc7, Pc6]
+  white: [Ke1, Rd2, Ra1, Bf6, Ba8, Sg7, Pf2, Pd3, Pb4, Pb3]
+authors: ['Иванов, Альберт Федотович']
+date: '1999'
+distinction: !!python/unicode 'Special HM'
+solution: !!python/unicode "1.Rd2-c2 ! zugzwang.\n      1...Kd5-d6 \n          2.Ba8*c6\
+  \ threat:\n                  3.Sg7-e8 # \n      1...Kd5-d4 \n          2.Ba8*c6\
+  \ zugzwang.\n              2...Kd4*d3 \n                  3.0-0-0 # \n      1...e5-e4\
+  \ \n          2.Ba8*c6 + \n              2...Kd5-d6 \n                  3.Sg7-e8\
+  \ #"
+source: V.melničenko-60 JT
+stipulation: '#3'
+---
+algebraic:
+  black: [Kf6, Rf4, Bg6, Pf7, Pf3, Pe4]
+  white: [Kf8, Qf2, Rg1, Rd2, Bh2, Pd5]
+authors: ['Иванов, Альберт Федотович', 'Марандюк, Михайло Назарович']
+date: '1971'
+distinction: !!python/unicode '4th HM'
+keywords: [Changed mates]
+solution: !!python/unicode '1... Bf5 2. Qd4#
+
+  1... Rf5 2. Qb6#
+
+
+  1. Qg3! [2. Qg5#]
+
+  1... Kf5 2. Qg5/:f4#
+
+  1... Ke5 2. Q:f4#
+
+  1... Bf5 2. Qg7#
+
+  1... Rf5 2. Qd6#
+
+  1... Rg4 2. Qe5#'
+source: Комсомолец Удмуртии
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke4, Ra6, Ra3, Bh6, Bc8, Sf8, Sa5, Ph3]
+  white: [Kh1, Qf2, Rd5, Ba7, Ba2, Sf1, Sb5]
+authors: ['Иванов, Альберт Федотович']
+date: '1963'
+distinction: !!python/unicode '6th-8th HM'
+keywords: [Interference]
+solution: !!python/unicode '1. Bb8! [2. Rd4#]
+
+  1... Se6 2. Qf5#
+
+  1... Rd6, Sc6 2. S(:)d6#
+
+  1... Bf4 2. Q:f4#
+
+  1... Be3 2. Sg3#
+
+  1... Bg7 2. Qf4, Sd2#
+
+  1... Sb3 2. Sc3#
+
+  1... Ra4 2. Sc3, Sg3#
+
+  1... Rd3 2. Re5#
+
+  1... Rf3 2. Qd4#'
+source: Šahs/Шахматы (Rīga)
+source-id: !!python/unicode '12/1637'
+stipulation: '#2'
+---
+algebraic:
+  black: [Kh4, Qa8, Ra6, Ra5, Pg5, Pf7, Pf4, Pb7]
+  white: [Kh1, Qf3, Bg4, Bb4, Sh7, Ph3, Pf2, Pe2, Pa2]
+authors: ['Иванов, Альберт Федотович']
+date: '1968'
+distinction: !!python/unicode '4th HM'
+solution: !!python/unicode "1. Be1! [2. Q:f4 [3. Qg3, f3#]\n\n1... Qb8 2. Bf5 ad lib\
+  \ 3. Qg4#\n1... Qc8 2. Qg3+\n  2... f:g3 3. f:g3#\n1... Qg8 2. Qg2 [3. f3#]\n  2...\
+  \ f3 3. Qg3#\n1... b6 2. Qc6 [3. f3#]\n  2... f3 3. Qh6#\n1... b5 2. Qd5 [3. f3#]\n\
+  \  2... Qa7, f3 3. Q:g5#"
+source: «64»
+source-id: !!python/unicode '4/15v'
+stipulation: '#3'
+---
+algebraic:
+  black: [Kf5, Qh5, Ra7, Bg5, Sa8, Pg6, Pf4, Pe4, Pe3, Pd7]
+  white: [Kd8, Qe7, Rg2, Bg7, Sg8, Sf8]
+authors: ['Марандюк, Михайло Назарович', 'Иванов, Альберт Федотович']
+date: '1970'
+distinction: !!python/unicode '3rd HM'
+keywords: [Unpinning]
+solution: !!python/unicode "1. Sf6? [2. Q:e4#]\n1... d5 2. Qe6#\n1... B:f6 2. Q:f6#\n\
+  But 1... Qf3! \n\n1. Bf6! [2. Qe5#]\n1... Ra5 2. Q:d7#\n1... d6 2. Qe6#\n1... B:f6\
+  \ 2. Q:f6#"
+source: Находкинский рабочий
+stipulation: '#2'
+---
+algebraic:
+  black: [Kf5, Ra7, Bh7, Bd8, Sc8, Ph6, Pe6, Pd4, Pc5, Pa3]
+  white: [Ka1, Qb5, Bh1, Bc1, Sf4, Se4, Ph4, Pg6, Pf6, Pc6]
+authors: ['Иванов, Альберт Федотович']
+date: '1970'
+distinction: !!python/unicode '4th HM'
+solution: !!python/unicode "1. Qc4? [2. Q:e6#]\nBut 1... Re7! \n\n1. Qd3! [2. Qh3+\n\
+  \  2... Ke5 3. Q:e6#]\n1... Re7 2. Qf3 [3. Qh5#]\n  2... B:g6 3. Sd3#\n  2... Ke5\
+  \ 3. Qh5#\n1... Bg8 2. Qe2 [3. Qh5#]\n  2... B:f6 3. Sg3#\n  2... Ke5 3. Qh5#\n\
+  1... Ke5 2. Qc4 [3. Q:c5, Q:e6#]"
+source: «64»
+source-id: !!python/unicode '42/85'
+stipulation: '#3'
+---
+algebraic:
+  black: [Ke4, Rd7, Bh6, Ba8, Sg1, Pe7, Pd4]
+  white: [Kd1, Qb4, Bh8, Be6, Sf5, Sf3, Pg3, Pf2, Pe2]
+authors: ['Иванов, Альберт Федотович', 'Кузнецов, Михаил Павлович']
+date: '1967'
+distinction: !!python/unicode '1st Prize'
+keywords: [Zagoruiko]
+solution: !!python/unicode "1. B:d4? [2. Qb1#]\n1... Rc7 2. Bc5#\n1... Rb7 2. Bb6#\n\
+  But 1... S:e2! \n\n1. S3:d4? [2. Qb1#]\n1... Rc7 2. Sc6#\n1... Rb7 2. Sb5#\n But\
+  \ 1... Bg7! \n\n1. S5:d4! [2. Qb1#]\n1... Rc7 2. Sc6#\n1... Rb7 2. Sb5#\n1... R:d4+\
+  \ 2. Q:d4#"
+source: Советская Молдавия
+stipulation: '#2'
+---
+algebraic:
+  black: [Kb4, Pc4]
+  white: [Ka1, Qa6, Bh6, Sg4, Sf5, Pc2, Pb6]
+authors: ['Иванов, Альберт Федотович', 'Молдовяну, Н.']
+date: '1971'
+distinction: !!python/unicode '5th-6th Place'
+keywords: [Reciprocal]
+solution: !!python/unicode 'a)
+
+  1. Se5! waiting
+
+  1... Kc3 2. Q:c4#
+
+  1... Kc5 2. Qa5#
+
+
+  b) Bh6 -- d8
+
+  1. Sge3! waiting
+
+  1... Kc3 2. Qa5#
+
+  1... Kc5 2. Q:c4#'
+source: Матч Приморье - Молдавия
+stipulation: '#2'
+twins: {b: Move h6 d8}
+---
+algebraic:
+  black: [Kg8, Rh8, Rf1, Be1, Sb5, Sa2, Ph7, Ph6, Pf4, Pe6, Pe2, Pd7, Pd5, Pa6]
+  white: [Ke7, Qa1, Rh1, Rb4, Sh4, Sb2, Ph3, Pf6, Pf2, Pd6]
+authors: ['Иванов, Альберт Федотович']
+date: '1971'
+distinction: !!python/unicode '3rd Place'
+solution: !!python/unicode "1. Sd3! [2. f7#]\n\n1... d4 2. Sf5 [3. f7, S:h6#]\n  2...\
+  \ e:f5 3. Q:a2#\n  2... S:d6 3. S:h6#\n1... Sac3 2. R:b5 [3. Rb8#]\n  2... a:b5\
+  \ 3. Qa8#\n  2... S:b5 3. f7#\n1... Bc3 2. Rg1+\n  2... R:g1 3. Q:g1#\n1... S:d6\
+  \ 2. Rb8+\n  2... Sc8+ 3. R:c8#\n  2... Se8 3. R:e8, f7#"
+source: Матч Приморье  - Молдавия
+stipulation: '#3'
+---
+algebraic:
+  black: [Ke5, Ph7, Pf5, Pe7, Pd5, Pd4]
+  white: [Kb3, Qh6, Ra4, Pf2, Pe2, Pc5]
+authors: ['Иванов, Альберт Федотович']
+date: '1975'
+distinction: !!python/unicode '3rd-4th Place'
+keywords: [Changed mates, Transferred mates]
+solution: !!python/unicode "1... Ke4 2. Qe3#\n1... d3 2. f4#\n\n1. R:d4? waiting\n\
+  1... e6 2. Qg7#\n1... K:d4 2. Qe3#\nBut 1... f4! \n\n1. Ra6! [2. Re6#]\n1... Ke4\
+  \ 2. Re6#\n1... f4 2. Qe6#\n1... d3 2. Qe3#"
+source: IX командное первенство СССР
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd5, Rc5, Bh1, Be5, Sf1, Sb5, Pe7, Pc7, Pc4, Pc3]
+  white: [Ka8, Qf5, Rd1, Sd2, Sb8, Pf3, Pf2, Pc2]
+authors: ['Иванов, Альберт Федотович']
+date: '2002'
+keywords: [Changed mates, Check - Non-check]
+solution: !!python/unicode "1. Re1? [2. Q:e5#]\n1... Kd6 2. Qd7#\n1... Kd4 2. Qe4#\n\
+  But 1... Se3! \n\n1. f4! [2. Q:e5#]\n1... Kd6+ 2. Se4#\n1... Kd4+ 2. Sf3#"
+source: Шахматная поэзия
+source-id: !!python/unicode '24/1313'
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke3, Qa8, Rd8, Bh6, Bc2, Sg7, Sa3, Ph5, Pb4]
+  white: [Ke1, Qf7, Rh3, Re5, Bg3, Sd6, Sb5, Ph4, Ph2, Pf5, Pe4, Pe2]
+authors: ['Иванов, Альберт Федотович', 'Тимонин, Владимир Ильич']
+comments: [!!python/unicode 'also later this diagramm - Kapros, Jorge Marcelo,  Boletim
+    da UBP, 1993, 2nd Prize']
+date: '1967'
+distinction: !!python/unicode '1st Prize'
+keywords: [Schiffmann, White combinations, White interference]
+solution: !!python/unicode "1. Re6? [2. Be5#]\n But 1... B:e4! \n\n1. Re7? [2. Be5#]\n\
+  But 1... Q:e4! \n\n1. Re8! [2. Be5#]\n1... Q:e4 2. Qa7#\n1... B:e4 2. Qb3#\n1...\
+  \ R:d6 2. B:d6#\n1... S:f5 2. S:f5#\n1... Bf4 2. Bf2#"
+source: Находкинский рабочий
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke4, Bd1, Sf5, Sd5, Pf6, Pe2, Pd6]
+  white: [Ke1, Be8, Be5]
+authors: ['Иванов, Альберт Федотович']
+date: '2013'
+distinction: !!python/unicode '85th-86th Place'
+intended-solutions: '2'
+solution: !!python/unicode '1)  1. Sc7  Kd2  2. d5  B:c7  3. d4  Bc6#
+
+
+  2)  1. Sg7  Kf2  2. f5  B:g7  3. f4  Bg6#'
+source: 9° WCCT 2012 -
+stipulation: h#3
+---
+algebraic:
+  black: [Ke4, Qg1, Rd8, Rd1, Ba5, Sf5, Pg6, Pb6]
+  white: [Kg5, Qc4, Re7, Bf4, Se5, Sd5, Pg4, Pg2, Pf6, Pd4, Pc3]
+authors: ['Иванов, Альберт Федотович']
+date: '2013'
+distinction: !!python/unicode '48th-49th Place'
+solution: !!python/unicode "1. Sc7! ~ 2. Qc6+ Rd5 3. Q:d5#\n1... Q:d4 2. Sd3+ S:e7\
+  \ 3. Sf2#\n1... R1:d4 2. Sf3+ S:e7 3. Sd2#\n1... R8:d4 2. Sf7+ S:e7 3. Sd6#\n1...\
+  \ S:e7 2. Qe2+ Qe3 3. Q:e3#\n1... Rd6 2. Sf7+ S:e7 3. S:d6#\n                 2...\
+  \ Re6 3. R:e6#"
+source: 9° WCCT 2012 -
+stipulation: '#3'
+---
+algebraic:
+  black: [Kg3, Qe8, Rg7, Rg6, Bh3, Bf2, Sh6, Sg8, Ph4, Pg5, Pg4, Pf6, Pe7, Pc6, Pa7]
+  white: [Ke6, Bg1, Se1]
+authors: [!!python/unicode 'Ghinda, Anatolie', 'Иванов, Альберт Федотович']
+date: '2014'
+distinction: !!python/unicode 'Comm.'
+solution: !!python/unicode 'a)  1. Bb6  Bc5  2. Qa8  B:e7  3. Bf2  Bd6#
+
+
+  b)  1. Bc5  Bd4  2. Rg7  B:f6  3. Bf2  Be5#
+
+
+  c)  1. Bg2  Sc2  2. Kf3  Kf5  3. Bg3  Sd4#
+
+
+  d)  1. Kf4  Kd5  2. Bg3  Kd4  3. f5  Be3#'
+source: ЮК В.Чепижный-80
+stipulation: h#3
+twins: {b: Move g7 b6, c: Move h6 b6, d: Move c6 b6}
+---
+algebraic:
+  black: [Kc5, Qc2, Bb1, Pg4, Pe7, Pe6, Pd7, Pc6, Pa2]
+  white: [Kg2, Rc1, Sd2]
+authors: ['Барсуков, Валерий Николаевич', 'Иванов, Альберт Федотович']
+date: '2015-01-04'
+distinction: !!python/unicode '5th Comm.'
+intended-solutions: '2'
+solution: !!python/unicode '1.Kc5-d4 Kg2-f2   2.Qc2-e4 Rc1-c5   3.Bb1-d3 Sd2-b3 #
+
+  1.Kc5-d6 Rc1*c2   2.c6-c5 Rc2*c5   3.Bb1-e4 + Sd2*e4 #'
+source: !!python/unicode 'International Chess Composition Day'
+stipulation: h#3
+---
+algebraic:
+  black: [Ke4, Qf7, Rf2, Bg8, Se1, Pg3, Pe2]
+  white: [Ka4, Qb5, Rf8, Ra6, Bc8, Bc1, Sg4, Sd5, Ph3, Pe7, Pc7, Pc3, Pb4]
+authors: ['Иванов, Альберт Федотович']
+date: '1960'
+distinction: !!python/unicode '2nd Prize'
+solution: !!python/unicode "1.Bc8-b7 ! threat:\n        2.Sd5-f6 #\n    1...Ke4-f3\n\
+  \        2.Sd5-b6 #\n    1...Ke4-f5\n        2.Sd5-f4 #\n    1...Qf7*d5\n      \
+  \  2.Qb5-c4 #"
+source: Червоний гiрник
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke3, Bc7, Sh2, Sg2]
+  white: [Kd1, Qg7, Rf7, Ph4, Pe2, Pd3]
+authors: ['Иванов, Альберт Федотович']
+date: '1964'
+solution: !!python/unicode "1.Rf7-f4 ! threat:\n        2.Qg7-d4 #\n    1...Sg2*f4\n\
+  \        2.Qg7-g1 #\n    1...Sh2-f3\n        2.Rf4*f3 #\n    1...Ke3*f4\n      \
+  \  2.Qg7-g5 #\n    1...Bc7-b6\n        2.Qg7-e5 #\n    1...Bc7*f4\n        2.Qg7-a7\
+  \ #\n    1...Bc7-e5\n        2.Qg7*e5 #"
+source: Червоний гiрник
+stipulation: '#2'
+---
+algebraic:
+  black: [Kh1, Qh4, Pg5]
+  white: [Kb8, Rc7, Rc2, Bd4, Bb1]
+authors: ['Иванов, Альберт Федотович']
+date: '1960'
+solution: !!python/unicode '1.Rc2-e2 ! threat: 2.Bb1-e4 + 2...Qh4*e4 3.Rc7-c1 # 2.Rc7-c1
+  + 2...Qh4-e1 3.Rc1*e1 # 3.Bb1-e4 # 1...Qh4-f2 2.Re2*f2 threat: 3.Rc7-c1 # 1...Qh4-g3
+  2.Bb1-e4 + 2...Qg3-g2 3.Rc7-h7 # 2...Qg3-f3 3.Rc7-c1 # 3.Rc7-h7 # 3.Be4*f3 # 1...Qh4-h2
+  2.Bb1-e4 + 2...Qh2-g2 3.Rc7-h7 # 1...Qh4*d4 2.Rc7-c1 + 2...Qd4-g1 3.Bb1-e4 # 2...Qd4-d1
+  3.Rc1*d1 # 1...Qh4-f4 2.Bb1-e4 + 2...Qf4-f3 3.Rc7-c1 # 3.Rc7-h7 # 3.Be4*f3 # 2...Qf4*e4
+  3.Rc7-c1 # 1...Qh4-h8 + 2.Bd4*h8 threat: 3.Rc7-c1 #'
+source: Социалистiчна Харкiвщина
+stipulation: '#3'
+---
+algebraic:
+  black: [Kc5, Qf7, Rd7, Rd2, Bg2, Bg1, Se3, Sb4, Pg6, Pb2]
+  white: [Ka4, Qg3, Rf5, Rb6, Bf6, Bb5, Sg5, Se2, Pd5, Pb3, Pa5]
+authors: ['Иванов, Альберт Федотович', 'Пустовой, Борис Дмитриевич']
+date: '1963'
+solution: !!python/unicode '1.Bb5-a6 ! threat: 2.Rb6-b5 # 1...Rd2*d5 2.Bf6-d4 # 1...Bg2*d5
+  2.Sg5-e4 # 1...Se3*d5 2.Qg3-c3 # 1...Sb4*d5 2.b3-b4 # 1...Rd7*d5 2.Qg3-d6 # 1...Rd7-b7
+  2.Qg3-d6 # 1...Qf7*d5 2.Sg5-e6 #'
+source: На боевом посту
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke5, Qg6, Rb4, Bf4, Sc3]
+  white: [Kg2, Qe1, Re8, Rd6, Be6, Sh5, Sg5, Pf6, Pe2, Pd2, Pc5]
+authors: ['Иванов, Альберт Федотович']
+date: '1957'
+distinction: !!python/unicode '1st Prize'
+solution: !!python/unicode '1.e2-e4 ! threat: 2.Be6-f7 # 1...Sc3*e4 2.Rd6-d5 # 1...Sc3-d5
+  2.Rd6*d5 # 1...Rb4-b8 2.d2-d4 # 1...Rb4-b7 2.d2-d4 # 1...Rb4*e4 2.d2-d4 # 1...Qg6*e4
+  + 2.Sg5-f3 # 1...Qg6*e8 2.Sg5-f3 # 1...Qg6*g5 + 2.Be6-g4 # 1...Qg6*f6 2.Sg5-f3 #
+  1...Qg6-g8 2.Be6*g8 #'
+source: Молодой сибиряк
+stipulation: '#2'
+---
+algebraic:
+  black: [Kc4, Rg5, Pf6, Pe6, Pc7, Pc6, Pb6]
+  white: [Ka3, Qf8, Rd3, Be8, Sb7, Pe2, Pb4, Pa4]
+authors: ['Иванов, Альберт Федотович']
+date: '1959'
+solution: !!python/unicode '1.Qf8-h6 ! zugzwang. 1...Rg5-g1 2.Qh6-f4 # 1...Rg5-g4
+  2.Qh6-c1 # 1...b6-b5 2.Sb7-a5 # 1...c6-c5 2.Be8-b5 # 1...e6-e5 2.Be8-f7 # 1...f6-f5
+  2.Qh6*e6 #'
+source: Гудок
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd5, Rb4, Pd6]
+  white: [Kg5, Qc3, Re4, Pe7]
+authors: ['Иванов, Альберт Федотович']
+date: '1957-09-27'
+solution: !!python/unicode '1.e7-e8=S ! threat: 2.Se8-f6 # 1...Rb4*e4 2.Se8-c7 # 1...Rb4-c4
+  2.Qc3*c4 #'
+source: Молодой сибиряк
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd6, Bb8, Sc8, Pe6, Pc7]
+  white: [Kf6, Qb5, Bd8, Sf8, Pf4]
+authors: ['Иванов, Альберт Федотович', 'Кузнецов, Михаил Павлович']
+date: '1965'
+distinction: !!python/unicode '1st HM'
+solution: !!python/unicode '1.Qb5-c4 ! zugzwang. 1...e6-e5 2.f4*e5 # 1...c7-c5 2.Qc4*e6
+  # 1...c7-c6 2.Qc4-d4 # 1...Bb8-a7 2.Bd8*c7 # 1...Sc8-a7 2.Bd8-e7 # 1...Sc8-b6 2.Bd8-e7
+  # 1...Sc8-e7 2.Bd8*e7 #'
+source: Советская Молдавия
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke6, Qe4, Sg6, Se5, Pc6, Pc2]
+  white: [Ka4, Qd4, Rg7, Re1, Bh1, Ba3, Sg3, Sf3, Pg5, Pd6]
+authors: ['Иванов, Альберт Федотович']
+date: '1965'
+distinction: !!python/unicode '1st Prize'
+solution: !!python/unicode '1.d6-d7 ! threat: 2.d7-d8=S # 1...Qe4-d5 2.Qd4-g4 # 1...Qe4*d4
+  + 2.Sf3*d4 # 1...Se5-f7 2.Rg7*g6 # 1...Se5*d7 2.Qd4-c4 #'
+source: Советская Молдавия
+stipulation: '#2'
+---
+algebraic:
+  black: [Kc4, Rh4, Bg8, Pd3]
+  white: [Ka4, Qd6, Bh3, Pb2]
+authors: ['Иванов, Альберт Федотович', 'Кузнецов, Михаил Павлович']
+date: '1965'
+distinction: !!python/unicode 'Special HM'
+solution: !!python/unicode '1.Qd6-e5 ! threat: 2.b2-b3 # 1...d3-d2 2.Bh3-f1 # 1...Rh4-d4
+  2.Qe5-b5 # 1...Bg8-d5 2.Qe5-c3 #'
+source: Советская Молдавия
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd6, Qh4, Re5, Rd1, Bd7, Ba1, Sf8, Sf4, Pb5]
+  white: [Ka5, Qf1, Rg5, Rb7, Bh2, Bh1, Sg7, Sa3, Pf6, Pc6, Pc2, Pb4]
+authors: ['Иванов, Альберт Федотович']
+date: '1966'
+distinction: !!python/unicode '1st Place'
+keywords: [Ianovcic theme]
+solution: !!python/unicode '1.Qf1*b5 ! threat: 2.Sa3-c4 # 1...Rd1-d4 2.Qb5*e5 # 1...Sf4-d3
+  2.Qb5-d5 # 1...Sf4-e2 2.Qb5-c5 # 1...Sf4-g2 2.Qb5-c5 # 1...Sf4-h3 2.Qb5-c5 # 1...Sf4-h5
+  2.Qb5-c5 # 1...Sf4-g6 2.Qb5-c5 # 1...Sf4-e6 2.Sg7-f5 # 1...Sf4-d5 2.Qb5-c5 # 1...Re5-e4
+  2.Qb5-c5 # 1...Re5*b5 + 2.Sa3*b5 # 1...Re5-c5 2.Qb5*c5 # 2.b4*c5 # 1...Bd7-e6 2.Sg7-e8
+  #'
+source: Матч Запорожье-Молдавия
+stipulation: '#2'
+---
+algebraic:
+  black: [Kg5, Rg6, Bh8, Sc2, Ph6, Ph5, Ph4, Pf6, Pd3, Pb4]
+  white: [Ka6, Qd8, Rf1, Ra2, Sd5, Ph3]
+authors: ['Иванов, Альберт Федотович']
+date: '1966'
+solution: !!python/unicode '1.Qd8-b6 ! threat: 2.Qb6-g1 # 1...Sc2-e1 2.Qb6-e3 # 1...Sc2-e3
+  2.Qb6*e3 # 1...Sc2-d4 2.Ra2-g2 # 1...f6-f5 2.Rf1-g1 #'
+source: Советская Молдавия
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke3, Qb7, Bd3, Sg7, Pf6, Pf5, Pe2]
+  white: [Ke1, Qf7, Rh3, Re5, Bg3, Sd6, Sb5, Ph2, Pg2, Pe4]
+authors: ['Иванов, Альберт Федотович', 'Тимонин, Владимир Ильич']
+date: '1966'
+distinction: !!python/unicode '1st Prize'
+keywords: [Schifman, White combinations]
+options: [Defence 1]
+solution: !!python/unicode '1.Re5-d5 ? threat: 2.Bg3-e5 # 1...Bd3*e4 2.Sd6-c4 # 1...f5-f4
+  2.Bg3-f2 # but 1...Sg7-h5 !
+
+  1.Re5-e7 ? threat: 2.Bg3-e5 # 1...Bd3*e4 2.Qf7-b3 # 1...f5-f4 2.Bg3-f2 # 1...Sg7-h5
+  2.Sd6*f5 # but 1...Qb7*e4 !
+
+  1.Re5-e6 ? threat: 2.Bg3-e5 # 1...f5-f4 2.Bg3-f2 # 1...Qb7*e4 2.Qf7-a7 # 1...Sg7-h5
+  2.Sd6*f5 # but 1...Bd3*e4 !
+
+  1.Re5*f5 ? threat: 2.Rf5-f3 # 2.Bg3-f2 # 2.Bg3-h4 # 2.Bg3-e5 # 2.Bg3-f4 # 1...Bd3*e4
+  2.Bg3-f2 # 2.Bg3-f4 # 1...Bd3*b5 2.Bg3-f2 # 2.Bg3-e5 # 1...Qb7*e4 2.Bg3-f2 # 2.Bg3-f4
+  # 1...Qb7*b5 2.Bg3-f2 # 2.Bg3-e5 # 1...Sg7-h5 2.Rf5-f3 # 2.Bg3-f2 # 2.Bg3-f4 # but
+  1...Sg7*f5 !
+
+  1.Re5-e8 ! threat: 2.Bg3-e5 # 1...Bd3*e4 2.Qf7-b3 # 1...f5-f4 2.Bg3-f2 # 1...Qb7*e4
+  2.Qf7-a7 # 1...Sg7-h5 2.Sd6*f5 #'
+source: Находкинский рабочий
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd5, Bf6, Sg5, Ph3, Pg7, Pe7, Pe5, Pc7]
+  white: [Kg6, Qa6, Rh5, Bh2, Bh1, Se2, Sb7, Pf3, Pe6, Pc5]
+authors: ['Иванов, Альберт Федотович']
+date: '1966'
+distinction: !!python/unicode '4th Place'
+solution: !!python/unicode '1.Qa6-a4 ! zugzwang. 1...Kd5*e6 2.Qa4-c6 # 1...e5-e4 2.Qa4*e4
+  # 1...Sg5-e4 2.Se2-f4 # 1...Sg5*f3 2.Se2-f4 # 1...Sg5-h7 2.Se2-f4 # 1...Sg5-f7 2.Se2-f4
+  # 1...Sg5*e6 2.Qa4-e4 # 2.f3-f4 # 2.Se2-c3 # 1...c7-c6 2.Qa4-b3 # 2.Qa4-a2 #'
+source: Матч Советская Молдавия - Омская правда
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke3, Rc5, Bg8, Bg1, Se7, Sa4, Pg6, Pe5, Pe4, Pc4]
+  white: [Kg5, Qf6, Rf8, Rd6, Bf1, Ba7, Sd7, Sc6, Pg2]
+authors: ['Иванов, Альберт Федотович', 'Кузнецов, Михаил Павлович']
+date: '1967'
+distinction: !!python/unicode '1st Prize'
+solution: !!python/unicode '1.Sd7*e5 ! threat: 2.Qf6-f4 # 1...Bg1-h2 2.Qf6-f2 # 1...Se7-d5
+  2.Se5*c4 # 1...Se7-f5 2.Se5-g4 #'
+source: Советская Молдавия
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke4, Qc7, Re2, Rd6, Sg6, Pg4, Pf3, Pd3]
+  white: [Ka3, Qe1, Rb5, Ra4, Bh6, Bb7, Se8, Pd4, Pc6]
+authors: ['Иванов, Альберт Федотович', 'Кузнецов, Михаил Павлович']
+date: '1967'
+distinction: !!python/unicode '4th HM'
+solution: !!python/unicode '1.Rb5-h5 ! threat: 2.d4-d5 # 1...d3-d2 2.Qe1-b1 # 1...f3-f2
+  2.Qe1-h1 # 1...Rd6*d4 2.Se8-f6 # 1...Rd6-d5 2.Se8-f6 # 1...Rd6*c6 2.Se8-f6 # 1...Sg6-e5
+  2.Rh5*e5 # 1...Sg6-f4 2.Rh5-e5 # 1...Qc7-a5 2.Se8*d6 # 1...Qc7-b6 2.Se8*d6 # 1...Qc7*c6
+  2.Se8*d6 # 1...Qc7*b7 2.Se8*d6 # 1...Qc7-g7 2.Se8*d6 #'
+source: Flacăra Sibiului
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke4, Rf8, Bb8]
+  white: [Ka2, Qg5, Rd3, Bd4, Sh1, Sb2, Pd5]
+authors: ['Иванов, Альберт Федотович']
+comments: [редакция Кройтор М.]
+date: '1960'
+solution: !!python/unicode '1.Bd4-c3 ! threat: 2.Rd3-e3 # 1...Bb8-a7 2.Qg5-e5 # 2.Sh1-g3
+  # 1...Bb8-f4 2.Sh1-f2 # 1...Bb8-e5 2.Qg5*e5 # 1...Rf8-f3 2.Rd3-d4 # 1...Rf8-f4 2.Sh1-g3
+  # 1...Rf8-f5 2.Qg5-e3 #'
+source: Труд
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke5, Sg7, Se8, Ph5, Pc7, Pc6]
+  white: [Kh8, Rc4, Bh4, Bg2, Sh6, Sd8, Pe3, Pd6]
+authors: ['Иванов, Альберт Федотович']
+comments: [исправление Кройтор М.]
+date: '1964'
+distinction: !!python/unicode '1st Prize'
+solution: !!python/unicode '1.Bg2*c6 ! zugzwang. 1...Ke5*d6 2.Sh6-f7 # 1...c7*d6 2.Rc4-e4
+  # 1...Sg7-e6 2.Sd8-f7 # 1...Sg7-f5 2.Sh6-f7 # 1...Se8*d6 2.Rc4-c5 # 1...Se8-f6 2.Bh4-g3
+  #'
+source: Советская Молдавия
+source-id: !!python/unicode '277/6025'
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke5, Sh6, Sc1, Pf7, Pe7, Pd6, Pd5]
+  white: [Kf3, Qc8, Rf2, Ra4, Bh1, Bg5, Sh4, Sb6, Pg7, Pg6, Pe6, Pc6]
+authors: ['Иванов, Альберт Федотович']
+date: '1964'
+distinction: !!python/unicode '4th-5th Place'
+solution: !!python/unicode '1.Kf3-g3 ! zugzwang. 1...Sc1-e2 + 2.Rf2*e2 # 1...Sc1-d3
+  2.Rf2-e2 # 1...Sc1-b3 2.Rf2-e2 # 1...Sc1-a2 2.Rf2-e2 # 1...d5-d4 2.Sb6-c4 # 1...Sh6-f5
+  + 2.Rf2*f5 # 1...Sh6-g4 2.Rf2-f5 # 1...Sh6-g8 2.Rf2-f5 # 1...f7-f5 2.Sh4-f3 # 1...f7-f6
+  2.Bg5-f4 # 1...f7*g6 2.Sh4*g6 # 1...f7*e6 2.Sb6-d7 #'
+source: Матч Молдавия - Ивановская область
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd5, Rh4, Bd6, Bd1, Sf3, Sf2, Ph5, Pe5, Pd3]
+  white: [Kf7, Qc3, Rg5, Re8, Bg2, Sa6, Pf6, Pd2, Pc7, Pb5]
+authors: ['Иванов, Альберт Федотович']
+date: '1964'
+distinction: !!python/unicode '2nd Place'
+solution: !!python/unicode '1.Re8-d8 ! threat: 2.Rg5*e5 # 1...Sf2-g4 2.Qc3*d3 # 1...Sf2-e4
+  2.Sa6-b4 # 1...Rh4-d4 2.Qc3-c6 # 1...Rh4-e4 2.Qc3-c5 # 1...Kd5-e4 2.Qc3-c4 #'
+source: Матч Молдавия - Ивановская область
+stipulation: '#2'
+---
+algebraic:
+  black: [Kf5, Ba4, Sf6, Se4, Pb5, Pb3]
+  white: [Kc6, Qb4, Re6, Be8, Sg5, Ph3, Pf4, Pf2, Pb2]
+authors: ['Иванов, Альберт Федотович']
+date: '1965'
+solution: !!python/unicode '1.Sg5-f3 ! zugzwang. 1...Se4-c3 2.Re6-e5 # 1...Se4-d2
+  2.Re6-e5 # 1...Se4*f2 2.Re6-e5 # 1...Se4-g3 2.Re6-e5 # 1...Se4-g5 2.Re6-e5 # 1...Se4-d6
+  2.Re6-e5 # 1...Se4-c5 2.Re6-e5 # 1...Kf5*e6 2.Sf3-d4 # 1...Kf5*f4 2.Re6*f6 # 1...Sf6-d5
+  2.Qb4*e4 # 1...Sf6-g4 2.Qb4*e4 # 1...Sf6-h5 2.Qb4*e4 # 1...Sf6-h7 2.Qb4*e4 # 1...Sf6-g8
+  2.Qb4*e4 # 1...Sf6*e8 2.Qb4*e4 # 1...Sf6-d7 2.Qb4*e4 #'
+source: Юный Ленинец
+source-id: !!python/unicode '64/1400'
+stipulation: '#2'
+---
+algebraic:
+  black: [Ke8, Rh8, Bg1, Sh1, Ph7, Ph2, Pe7, Pd5, Pc6, Pb7, Pa6]
+  white: [Ka1, Qb4, Rd1, Bb8, Sh5, Ph3, Pg3, Pf2, Pe6, Pe2, Pc3, Pc2, Pb2]
+authors: ['Иванов, Альберт Федотович']
+date: '1970'
+distinction: !!python/unicode 'Prize'
+keywords: [Retro]
+options: [Defence 1, NoCastling h8]
+solution: !!python/unicode '1.Qb4*b7 ! threat: 2.Qb7-c8 # 1...Ke8-d8 2.Qb7-d7 # but
+  1...0-0 !?'
+source: Бюллетень Центрального Шахматного Клуба СССР
+stipulation: '#2'
+---
+algebraic:
+  black: [Kb4, Pc4]
+  white: [Ka1, Qa6, Bf4, Sg4, Sf5, Pc2, Pb6]
+authors: ['Иванов, Альберт Федотович', 'Молдовяну, Николай']
+date: '1971'
+distinction: !!python/unicode '5th-6th Place'
+solution: !!python/unicode "a) \n1.Sg4-e5 ! zugzwang. 1...Kb4-c3 2.Qa6*c4 # 1...Kb4-c5\
+  \ 2.Qa6-a5 # 1...c4-c3 2.Se5-d3 #\n\nb) wBf4--d8\n1.Sg4-e3 ! zugzwang. 1...Kb4-c3\
+  \ 2.Qa6-a5 # 1...Kb4-c5 2.Qa6*c4 # 1...c4-c3 2.Bd8-e7 #"
+source: матч Молдавия - Дальний Восток
+stipulation: '#2'
+twins: {b: Move f4 d8}
+---
+algebraic:
+  black: [Ka3, Ra1, Be1, Sc3, Ph2, Pg3, Pf5, Pf3, Pd6, Pd5, Pa2]
+  white: [Kh1, Be3, Bd1, Pf4]
+authors: ['Иванов, Альберт Федотович']
+date: '1971'
+distinction: !!python/unicode '1st Place'
+solution: !!python/unicode "a) \n1.Sc3-b1 Bd1-c2   2.Be1-b4 Be3-c1 #\nb) bKa3--e4\
+  \  \n1.Be1-f2 Be3-c1   2.Bf2-d4 Bd1-c2 #"
+source: Матч Дальний Восток - МССР
+stipulation: h#2
+twins: {b: move a3 e4}
+---
+algebraic:
+  black: [Ke5, Re7, Rb8, Bd8, Bc2, Se2, Sc1, Ph7, Pb6]
+  white: [Kh6, Qb4, Bf3, Be1, Sf6, Pg5, Pf5]
+authors: ['Иванов, Альберт Федотович', 'Молдовяну, Николай']
+date: '1972'
+distinction: !!python/unicode '8th Place'
+solution: !!python/unicode '1.Be1-f2 ! threat: 2.Qb4-d4 + 2...Se2*d4 3.Bf2-g3 + 3...Ke5*f5
+  4.Bf3-g4 # 2...Ke5*f5 3.Bf3-g4 # 1...Sc1-d3 2.Qb4-e4 + 2...Ke5-d6 3.Qe4-d5 + 3...Kd6-c7
+  4.Qd5-c6 # 1...Sc1-b3 2.Bf3*e2 threat: 3.Bf2-g3 + 3...Ke5*f5 4.Qb4-g4 # 4.Be2-g4
+  # 2...Ke5*f5 3.Be2-g4 + 3...Kf5-e5 4.Bf2-g3 # 3.Qb4-g4 + 3...Kf5-e5 4.Bf2-g3 # 1...Bc2-d1
+  2.Qb4-e4 + 2...Ke5-d6 3.Qe4-d5 + 3...Kd6-c7 4.Qd5-c6 # 1...Bc2-e4 2.Qb4*e4 + 2...Ke5-d6
+  3.Qe4-d5 + 3...Kd6-c7 4.Qd5-c6 # 1...Ke5*f5 2.Bf3-g4 + 2...Kf5-e5 3.Qb4-d4 + 3...Se2*d4
+  4.Bf2-g3 #'
+source: VIII командное первенство СССР
+stipulation: '#4'
+---
+algebraic:
+  black: [Kh6, Bd8, Pg7, Pf6, Pc7, Pb7]
+  white: [Kf8, Rd7, Sh7, Sf4, Ph5, Pe2]
+authors: ['Плаксин, Никита', 'Иванов, Альберт Федотович']
+date: '1972'
+options: [SetPlay]
+solution: !!python/unicode '1...f6-f5 2.Rd7*g7 threat: 3.Kf8-g8 threat: 4.Rg7-g6 #
+  2...Bd8-g5 3.Sh7*g5 threat: 4.Rg7-g6 # 4.Sg5-f7 # 2...Bd8-f6 3.Sh7*f6 threat: 4.Rg7-g6
+  # 4.Sf6-g8 # 1...Kh6*h7 2.Rd7*g7 + 2...Kh7-h6 3.Kf8-g8 threat: 4.Rg7-g6 # 2...Kh7-h8
+  3.Sf4-g6 # 1...b7-b5 2.Rd7*g7 threat: 3.Kf8-g8 threat: 4.Rg7-g6 # 1...b7-b6 2.Rd7*g7
+  threat: 3.Kf8-g8 threat: 4.Rg7-g6 #
+
+  1.Rd7*g7 ? threat: 2.Kf8-g8 threat: 3.Rg7-g6 #'
+source: !!python/unicode '64'
+source-id: !!python/unicode '42/224'
+stipulation: '#4'
+---
+algebraic:
+  black: [Ke8, Qg8, Rg7, Rf8, Bh7, Bh6, Sh8, Sh4, Pg6, Pf7, Pd7, Pb7]
+  white: [Kc8, Re4, Ba3, Sg5, Sf3, Pg3, Pg2, Pf5, Pe5, Pd4, Pb2, Pa7]
+authors: ['Иванов, Альберт Федотович']
+comments: [Конкурс памяти Б.Д. Пустового]
+date: '1974'
+distinction: !!python/unicode 'Special Prize'
+keywords: [Retro]
+options: [SetPlay]
+solution: !!python/unicode '1...d7-d5 2.e5*d6 ep. # 1...d7-d6 2.e5*d6 #
+
+  1.a7-a8=S ! threat: 2.Sa8-c7 # 1...d7-d6 2.e5*d6 #'
+source: Молодой Сибиряк
+stipulation: '#2'
+---
+algebraic:
+  black: [Kf4, Qa2, Ra4, Ba6, Ba1, Sh1, Ph5, Pe5, Pe4, Pb7, Pb3]
+  white: [Kf7, Qd5, Rg7, Rd3, Bh7, Ba5, Sc6, Pf2]
+authors: ['Иванов, Альберт Федотович']
+date: '2017'
+keywords: [Anticipatory unpinning]
+solution: !!python/unicode "1.Kf7-g8 ? threat:\n        2.Qd5-f7 #\n   but\n    1...b3-b2\
+  \ !\n    1...Ba6-c4 !\n\n 1.Kf7-f8 ? threat:\n        2.Qd5-f7 #\n   but\n    1...Qa2-a3\
+  \ + !\n\n 1.Kf7-e7 ? threat:\n        2.Qd5-f7 #\n    but\n    1...Qa2-a3 + !\n\n\
+  \ 1.Kf7-e8 ! threat:\n        2.Qd5-f7 #\n    1...Sh1-g3\n        2.f2*g3 #\n  \
+  \  1...b3-b2\n        2.Qd5*e5 #\n    1...Ba6-c4\n        2.Qd5*e4 #"
+source: !!python/unicode '10th WCCT'
+stipulation: '#2'
+---
+algebraic:
+  black: [Kh5, Pg7, Pe5, Pb2, Pa7]
+  white: [Kf3, Qa6, Bf8, Bb1, Se4, Pg3]
+authors: ['Иванов, Альберт Федотович']
+solution: !!python/unicode '1.Kf3-g2 ! zugzwang. 1...Kh5-g4 2.Qa6-g6 # 1...g7-g5 2.Se4-f6
+  # 1...g7-g6 2.Qa6-e2 #'
+source: Юный ленинец
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd3, Pe5]
+  white: [Kh5, Rf3, Rf2, Bc7, Se3, Pc3, Pb2]
+authors: ['Иванов, Альберт Федотович']
+date: '1963-02-01'
+solution: !!python/unicode '1.Rf3-h3 ! zugzwang. 1...Kd3-e4 2.Rf2-d2 zugzwang. 2...Ke4-f4
+  3.Rd2-d4 # 1...e5-e4 2.Bc7-g3 zugzwang. 2...Kd3*e3 3.Bg3-h4 #'
+source: Учительская газета
+stipulation: '#3'

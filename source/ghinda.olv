@@ -1,0 +1,1022 @@
+---
+algebraic:
+  black: [Pe2, Pd3, Bf4, Kc4, Sg6, Pf6, Pe6, Pb6, Pc7]
+  white: [Rc1, Qh2, Sf2, Pf3, Pc3, Ka4, Pf5, Pb5, Pg7, Sd7, Bb7, Bf8, Re8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2010'
+options: []
+solution: !!python/unicode "1.Sf2-g4 ! zugzwang.\r\n      1...e2-e1=Q\r\n        \
+  \  2.Qh2-a2 #\r\n      1...e2-e1=S\r\n          2.Qh2-a2 #\r\n      1...e2-e1=R\r\
+  \n          2.Qh2-a2 #\r\n      1...e2-e1=B\r\n          2.Qh2-a2 #\r\n      1...d3-d2\r\
+  \n          2.Qh2*e2 #\r\n      1...Bf4*c1\r\n          2.Qh2*c7 #\r\n      1...Bf4-d2\r\
+  \n          2.Qh2*c7 #\r\n      1...Bf4-e3\r\n          2.Sg4*e3 #\r\n      1...Bf4*h2\r\
+  \n          2.Sg4-e3 #\r\n      1...Bf4-g3\r\n          2.Sg4-e3 #\r\n      1...Bf4-h6\r\
+  \n          2.Qh2*c7 #\r\n      1...Bf4-g5\r\n          2.Qh2*c7 #\r\n      1...Bf4-d6\r\
+  \n          2.Sg4-e3 #\r\n      1...Bf4-e5\r\n          2.Sg4-e3 #\r\n      1...e6-e5\r\
+  \n          2.g7-g8=Q #\r\n          2.g7-g8=B #\r\n      1...e6*f5\r\n        \
+  \  2.g7-g8=Q #\r\n          2.g7-g8=B #\r\n      1...Sg6-e5\r\n          2.Qh2*f4\
+  \ #\r\n      1...Sg6-h4\r\n          2.Qh2*f4 #\r\n      1...Sg6-h8\r\n        \
+  \  2.Qh2*f4 #\r\n      1...Sg6*f8\r\n          2.Qh2*f4 #\r\n      1...Sg6-e7\r\n\
+  \          2.Qh2*f4 #\r\n      1...c7-c5\r\n          2.Sd7*b6 #\r\n      1...c7-c6\r\
+  \n          2.Sd7*b6 #"
+stipulation: '#2'
+---
+algebraic:
+  black: [Bc4, Kc5, Pc6]
+  white: [Kd2, Qb2, Rd4, Sf7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2017'
+distinction: !!python/unicode '3rd Place'
+options: []
+source: !!python/unicode 'Cupa Bucovinei'
+stipulation: '#2'
+---
+algebraic:
+  black: [Ph4, Kc4, Pg5, Ph6, Pe6, Rb6, Bc8]
+  white: [Qe1, Pc2, Pb2, Ph3, Sf3, Pa3, Kg4, Sb4, Ph5, Pe5, Ra5, Bd6, Ra6, Pb7, Be8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2016'
+options: []
+solution: !!python/unicode "1.Be8-f7 ! threat:\r\n          2.Bf7*e6 +\r\n       \
+  \       2...Bc8*e6 #\r\n      1...Rb6-b5\r\n          2.Ra6-c6 +\r\n           \
+  \   2...Rb5-c5\r\n                  3.Bf7*e6 +\r\n                      3...Bc8*e6\
+  \ #\r\n      1...Rb6*d6\r\n          2.Qe1-e4 +\r\n              2...Rd6-d4\r\n\
+  \                  3.b7*c8=S\r\n                      3...Rd4*e4 #\r\n         \
+  \         3.b7*c8=B\r\n                      3...Rd4*e4 #\r\n      1...Bc8*b7\r\n\
+  \          2.Bf7*e6 +\r\n              2...Bb7-d5\r\n                  3.Ra6*b6\r\
+  \n                      3...Bd5*e6 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Be2, Pe4, Rf5, Ke5, Pc5, Pf7, Bc7]
+  white: [Re1, Qc1, Sc2, Kb2, Pg4, Sf4, Pf6, Rb6, Be7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2014'
+distinction: !!python/unicode '1st Place'
+options: []
+solution: !!python/unicode "1.Sc2-d4 ! threat:\n          2.Sd4-c6 #\n      1...Be2-b5\n\
+  \          2.Sd4-f3 #\n      1...e4-e3\n          2.Qc1*e3 #\n      1...c5*d4\n\
+  \          2.Qc1*c7 #\n      1...Ke5*d4\n          2.Qc1-c3 #\n      1...Rf5*f4\n\
+  \          2.Qc1*c5 #\n      1...Rf5*f6\n          2.Be7*f6 #"
+source: !!python/unicode 'Cupa Bucovinei'
+stipulation: '#2'
+---
+algebraic:
+  black: [Se1, Be3, Pf4, Ke5, Pf6, Pg7, Bg8]
+  white: [Sg1, Qb2, Rh4, Sd4, Bb4, Ka5, Bc6]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2010'
+options: []
+solution: !!python/unicode "1.Qb2-g2 ! threat:\r\n          2.Qg2-e4 #\r\n      1...Se1*g2\r\
+  \n          2.Sg1-f3 #\r\n      1...Se1-f3\r\n          2.Sg1*f3 #\r\n      1...f4-f3\r\
+  \n          2.Rh4-e4 #\r\n      1...f6-f5\r\n          2.Qg2*g7 #\r\n      1...Bg8-d5\r\
+  \n          2.Qg2*d5 #\r\n      1...Bg8-h7\r\n          2.Qg2-d5 #"
+stipulation: '#2'
+---
+algebraic:
+  black: [Kb2, Pf3, Pg4, Bh5, Pg5, Re5, Sg6, Pb6, Pa7, Sc8, Bb8]
+  white: [Qf1, Rc1, Ph2, Sf2, Sc2, Kg3, Pe3, Rd3, Bh8, Bg8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2015'
+options: []
+solution: !!python/unicode "1.Rd3-a3 ! threat:\r\n          2.Bh8*e5 +\r\n       \
+  \       2...Sg6*e5\r\n                  3.Sf2-d3 +\r\n                      3...Se5*d3\
+  \ #\r\n      1...Sg6*h8\r\n          2.Ra3-b3 +\r\n              2...Kb2-a2\r\n\
+  \                  3.Qf1-a6 +\r\n                      3...Re5-a5 #\r\n      1...Sc8-d6\r\
+  \n          2.Ra3-a2 +\r\n              2...Kb2-c3\r\n                  3.Sf2-e4\
+  \ +\r\n                      3...Sd6*e4 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Pg5, Bf5, Ke5, Pc5, Se6, Pf7]
+  white: [Kf1, Se1, Qa1, Pd2, Pc2, Ph3, Sc3, Pg4, Rf4, Rc6, Be7, Pa7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2010'
+options: []
+solution: !!python/unicode "1.Qa1-a5 ! zugzwang.\r\n      1...Ke5*f4\r\n         \
+  \ 2.Be7-d6 #\r\n      1...Bf5*c2\r\n          2.Be7-d6 #\r\n      1...Bf5-d3 +\r\
+  \n          2.Se1*d3 #\r\n      1...Bf5-e4\r\n          2.Rf4*e4 #\r\n      1...Bf5*g4\r\
+  \n          2.Be7-d6 #\r\n          2.Se1-d3 #\r\n      1...Bf5-h7\r\n         \
+  \ 2.Be7-d6 #\r\n      1...Bf5-g6\r\n          2.Be7-d6 #\r\n      1...g5*f4\r\n\
+  \          2.Se1-f3 #\r\n      1...Se6-d4\r\n          2.Qa5-c7 #\r\n      1...Se6*f4\r\
+  \n          2.Be7-f6 #\r\n          2.Se1-f3 #\r\n      1...Se6-g7\r\n         \
+  \ 2.Qa5-c7 #\r\n      1...Se6-f8\r\n          2.Qa5-c7 #\r\n      1...Se6-d8\r\n\
+  \          2.Qa5-c7 #\r\n      1...Se6-c7\r\n          2.Qa5*c7 #\r\n      1...f7-f6\r\
+  \n          2.Be7-d6 #"
+stipulation: '#2'
+---
+algebraic:
+  black: [Bc2, Pd4, Rh5, Rg5, Kc5, Sa6, Be7, Pb7, Pa7]
+  white: [Ka1, Sh2, Rg2, Bf2, Sb2, Pa3, Pa5, Qh6, Rb6, Bf7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2010'
+options: []
+solution: !!python/unicode "1.Bf2-h4 ! threat:\r\n          2.Rg2*c2 #\r\n      1...Bc2-b1\r\
+  \n          2.Sb2-a4 #\r\n      1...Bc2-d1\r\n          2.Sb2-d3 #\r\n      1...Bc2-h7\r\
+  \n          2.Sb2-a4 #\r\n      1...Bc2-g6\r\n          2.Sb2-a4 #\r\n      1...Bc2-f5\r\
+  \n          2.Sb2-a4 #\r\n      1...Bc2-e4\r\n          2.Sb2-a4 #\r\n      1...Bc2-d3\r\
+  \n          2.Sb2*d3 #\r\n          2.Sb2-a4 #\r\n      1...Bc2-a4\r\n         \
+  \ 2.Sb2-d3 #\r\n          2.Sb2*a4 #\r\n      1...Bc2-b3\r\n          2.Sb2-d3 #\r\
+  \n      1...d4-d3\r\n          2.Bh4-f2 #\r\n      1...Rg5*g2\r\n          2.Bh4*e7\
+  \ #\r\n      1...Rg5-g3\r\n          2.Bh4*e7 #\r\n      1...Sa6-b4\r\n        \
+  \  2.a3*b4 #\r\n      1...a7*b6\r\n          2.Qh6*b6 #"
+stipulation: '#2'
+---
+algebraic:
+  black: [Pe2, Ke3, Pd3, Bh6, Pb6, Pb7]
+  white: [Rg1, Ke1, Rg3, Bf3, Sb4, Se6, Bf8, Qc8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2016'
+options: []
+solution: !!python/unicode "1.Bf8-d6 ! threat:\r\n          2.Bd6-f4 +\r\n       \
+  \       2...Bh6*f4\r\n                  3.Bf3-g2 +\r\n                      3...Bf4*g3\
+  \ #\r\n      1...Bh6-f4\r\n          2.Bd6-c5 +\r\n              2...b6*c5\r\n \
+  \                 3.Bf3-g2 +\r\n                      3...Bf4*g3 #\r\n      1...Bh6-f8\r\
+  \n          2.Bd6*f8 zugzwang.\r\n              2...b6-b5\r\n                  3.Qc8*b7\r\
+  \n                      3...d3-d2 #\r\n      1...Bh6-g7\r\n          2.Sb4-c2 +\r\
+  \n              2...d3*c2\r\n                  3.Qc8-c3 +\r\n                  \
+  \    3...Bg7*c3 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Qd2, Bb4, Kd5, Pf6, Pd6, Pf7]
+  white: [Rd1, Se2, Kh3]
+authors: ['Гиндэ, Анатолий Алексеевич', !!python/unicode 'Muset', !!python/unicode 'Barsucov']
+date: '2014'
+options: []
+solution: !!python/unicode '1.Kd5-e5 Se2-g3   2.Qd2-e3 Rd1-d5 +   3.Ke5-f4 Rd5-f5
+  #
+
+  1.Kd5-e6 Rd1*d2   2.d6-d5 Rd2*d5   3.Bb4-e7 Se2-f4 #
+
+  1.Kd5-c4 Rd1*d2   2.Kc4-b3 Se2-c1 +   3.Kb3-a3 Rd2-a2 #'
+stipulation: h#3
+---
+algebraic:
+  black: [Bf2, Bh3, Kg3, Ph4, Pg4, Sh6, Rg6, Pf6, Pc6, Pb6, Pe7, Pa7, Sg8]
+  white: [Bg1, Se1, Ke6]
+authors: [!!python/unicode 'Ivanov', 'Гиндэ, Анатолий Алексеевич', !!python/unicode 'Barsucov']
+comments: [!!python/unicode 'extra: \dea)diagrama\afb)b6-d6\s2c)iz b) a7-c7']
+date: '2014'
+options: []
+stipulation: h#3
+---
+algebraic:
+  black: [Rc1, Bc2, Pf4, Pd4, Pa4, Kc5, Pa5, Pf6, Re7, Pb7]
+  white: [Rg2, Bf2, Sb2, Pf3, Pa3, Pe4, Pg6, Rb6, Qh7, Pg7, Ka7, Bg8, Sf8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2010'
+options: []
+stipulation: '#2'
+---
+algebraic:
+  black: [Sa1, Pb2, Ke4, Bb4, Sf5, Pe5, Pg7, Rd7]
+  white: [Kd1, Rb1, Pg2, Qe2, Pe3, Sb3, Pf4, Pc4, Sh5, Pd5, Pg6, Rf6, Pd6, Ba6, Ba7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2010'
+options: []
+solution: !!python/unicode "1.Ba6-c8 ! zugzwang.\r\n      1...Sa1-c2\r\n         \
+  \ 2.Qe2*c2 #\r\n      1...Sa1*b3\r\n          2.Qe2-c2 #\r\n      1...Bb4-a3\r\n\
+  \          2.Sb3-d2 #\r\n      1...Bb4-e1\r\n          2.Sb3-c5 #\r\n      1...Bb4-d2\r\
+  \n          2.Sb3*d2 #\r\n          2.Sb3-c5 #\r\n      1...Bb4-c3\r\n         \
+  \ 2.Sb3-c5 #\r\n      1...Bb4*d6\r\n          2.Sb3-d2 #\r\n      1...Bb4-c5\r\n\
+  \          2.Sb3-d2 #\r\n          2.Sb3*c5 #\r\n      1...Bb4-a5\r\n          2.Sb3-c5\
+  \ #\r\n      1...e5*f4\r\n          2.Rf6-e6 #\r\n      1...Sf5-d4\r\n         \
+  \ 2.Sh5-g3 #\r\n          2.e3*d4 #\r\n      1...Sf5*e3 +\r\n          2.Qe2*e3\
+  \ #\r\n      1...Sf5-g3\r\n          2.Sh5*g3 #\r\n      1...Sf5-h4\r\n        \
+  \  2.Sh5-g3 #\r\n      1...Sf5-h6\r\n          2.Sh5-g3 #\r\n      1...Sf5-e7\r\n\
+  \          2.Sh5-g3 #\r\n      1...Sf5*d6\r\n          2.Sh5-g3 #\r\n      1...Rd7*d6\r\
+  \n          2.Bc8*f5 #\r\n      1...Rd7*a7\r\n          2.Bc8*f5 #\r\n      1...Rd7-b7\r\
+  \n          2.Bc8*f5 #\r\n      1...Rd7-c7\r\n          2.Bc8*f5 #\r\n      1...Rd7-d8\r\
+  \n          2.Bc8*f5 #\r\n      1...Rd7-f7\r\n          2.Bc8*f5 #\r\n      1...Rd7-e7\r\
+  \n          2.Bc8*f5 #\r\n      1...g7*f6\r\n          2.Sh5*f6 #"
+stipulation: '#2'
+---
+algebraic:
+  black: [Bh1, Rg1, Ba1, Ph2, Sb2, Pa2, Rh3, Pg3, Ka5, Sf6, Pb6]
+  white: [Re1, Be3, Rc3, Pb3, Pc4, Pb5, Sd6, Sa6, Be8, Kc8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2014'
+distinction: !!python/unicode '3rd Place'
+options: []
+solution: !!python/unicode "1.Rc3-c2 ! threat:\n          2.Be3-d2 #\n      1...Rg1-g2\n\
+  \          2.Sd6-b7 #\n      1...Bh1-b7 +\n          2.Sd6*b7 #\n      1...Sb2-d1\n\
+  \          2.Rc2*a2 #\n      1...Sb2-d3\n          2.Rc2*a2 #\n      1...Sb2*c4\n\
+  \          2.Sd6*c4 #\n      1...Sb2-a4\n          2.b3-b4 #\n      1...g3-g2\n\
+  \          2.Sd6-b7 #\n      1...Sf6-d5\n          2.Sd6-b7 #\n      1...Sf6-e4\n\
+  \          2.Sd6-b7 #"
+source: !!python/unicode 'Cupa Bucovinei'
+stipulation: '#2'
+---
+algebraic:
+  black: [Pa3, Pg5, Bf5, Ke5, Pc5, Se6, Pc6, Pg7, Pb7]
+  white: [Se1, Kc1, Pd2, Ba2, Ph3, Pd3, Pg4, Rf4, Pg6, Qb6, Be7, Sc8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2011'
+options: []
+solution: !!python/unicode "1.Kc1-b1 ! zugzwang.\r\n      1...c5-c4\r\n          2.Rf4*f5\
+  \ #\r\n      1...Ke5*f4\r\n          2.Be7-d6 #\r\n      1...Bf5*d3 +\r\n      \
+  \    2.Se1*d3 #\r\n      1...Bf5-e4\r\n          2.Rf4*e4 #\r\n      1...Bf5*g4\r\
+  \n          2.Be7-d6 #\r\n      1...Bf5*g6\r\n          2.Be7-d6 #\r\n      1...g5*f4\r\
+  \n          2.Se1-f3 #\r\n      1...Se6-d4\r\n          2.Qb6-c7 #\r\n      1...Se6*f4\r\
+  \n          2.Se1-f3 #\r\n      1...Se6-f8\r\n          2.Qb6-c7 #\r\n      1...Se6-d8\r\
+  \n          2.Qb6-c7 #\r\n      1...Se6-c7\r\n          2.Qb6*c7 #"
+stipulation: '#2'
+---
+algebraic:
+  black: [Bg7, Kh8]
+  white: [Bb1, Ka1, Pa2, Bd4, Rf7, Se7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2013'
+options: []
+solution: !!python/unicode "1. Nc3!  zz; \n  1. ...Ne5  2.Cf5  Rg8  3.Ch6+  Rh8  4.Nd4\
+  \  Nf6  5.Ne5  Ng7  6.Tf1  Nf6  7.Tg1  Ng7  8.Nf6  N:f6#; \n  1. ... Nd4"
+stipulation: s#8
+---
+algebraic:
+  black: [Pa3, Kd5, Pa6]
+  white: [Kd1, Pa2, Ph4, Rf4, Sd4, Bb4, Pg5, Se8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \deMENTIUNE\af"Problrmist Ucraini-10"']
+date: '2010'
+options: []
+solution: !!python/unicode "1.Kd1-d2 ! threat:\r\n          2.Kd2-d3 threat:\r\n \
+  \                 3.Rf4-f5 #\r\n      1...Kd5-e5\r\n          2.Se8-f6 threat:\r\
+  \n                  3.Rf4-e4 #\r\n              2...Ke5*f4\r\n                 \
+  \ 3.Bb4-d6 #\r\n      1...Kd5-c4\r\n          2.Se8-c7 threat:\r\n             \
+  \     3.Sd4-b3 #\r\n                  3.Sd4-c2 #\r\n                  3.Sd4-e2 #\r\
+  \n                  3.Sd4-f3 #\r\n                  3.Sd4-f5 #\r\n             \
+  \     3.Sd4-e6 #\r\n                  3.Sd4-c6 #\r\n                  3.Sd4-b5 #\r\
+  \n              2...Kc4*b4\r\n                  3.Sd4-b3 #"
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd4, Sc6, Bb7]
+  white: [Ke2, Sb6, Rb8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '1999'
+options: []
+solution: !!python/unicode '1.Sc6-e5 Sb6-c4   2.Bb7-d5 Rb8-b4   3.Kd4-e4 Sc4-d6 #
+
+  1.Bb7-c8 Sb6-c4   2.Kd4-d5 Ke2-d3   3.Bc8-e6 Rb8-b5 #'
+stipulation: h#3
+---
+algebraic:
+  black: [Bg2, Kc2, Pb2, Rb3, Ph4, Pe4, Pg6, Pd6, Pf7, Pc7]
+  white: [Re1, Sb1, Rh2, Pe3, Sf4, Bd4, Bc4, Qa4, Ph5, Pf5, Kd5, Pf6, Pc6, Pa7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2012'
+options: []
+solution: !!python/unicode "1.Sh3! \n  1...gxh5 2.Bb6 threat: 3.Bxb3+ Kd3 4.Qxe4+\
+  \ Bxe4# \n    2...cxb6 3.Ba6 b5 4.Qxe4+ Rd3# \n  1...g5 2.Bc3 threat: 3.Bxb3+ Kd3\
+  \ 4.Qxe4+ Bxe4# \n  1...gxf5 2.Bc3 f4 3.Bxb3+ Kd3 4.Qxe4+ Bxe4#"
+stipulation: s#4
+---
+algebraic:
+  black: [Ke4, Sb5, Pd6]
+  white: [Kd1, Rd2, Pd4]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \av2 solutii']
+date: '1997'
+options: []
+solution: !!python/unicode '1.Ke4-d5 Rd2-a2   2.Kd5-c4 Kd1-c2   3.d6-d5 Ra2-a4 #
+
+  1.d6-d5 Rd2-g2   2.Sb5-d6 Kd1-e2   3.Sd6-f5 Rg2-g4 #'
+stipulation: h#3
+---
+algebraic:
+  black: [Pg4, Kd5, Bd6, Sb6]
+  white: [Ke3, Rg6, Bg7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \av2 solutii']
+date: '2000'
+options: []
+solution: !!python/unicode '1.Bd6-c5 + Ke3-f4   2.Sb6-c4 Rg6-f6   3.Kd5-d4 Rf6-d6
+  #
+
+  1.Bd6-e7 Bg7-f6   2.Kd5-d6 Ke3-d4   3.Sb6-d7 Bf6-e5 #'
+stipulation: h#3
+---
+algebraic:
+  black: [Rd3, Kc5, Sd7]
+  white: [Bf1, Ph3, Kf4, Bd8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \av2 solitii']
+date: '2002'
+options: []
+stipulation: h#3
+---
+algebraic:
+  black: [Bd4, Kc4, Rf6]
+  white: [Ke4, Be5, Sb5]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \av2 solutii']
+date: '2001'
+options: []
+solution: !!python/unicode '1.Bd4-b6 Be5-b2   2.Rf6-c6 Sb5-d6 +   3.Kc4-c5 Bb2-a3
+  #
+
+  1.Rf6-f3 Be5-d6   2.Rf3-b3 Bd6-a3   3.Bd4-c3 Sb5-d6 #'
+stipulation: h#3
+---
+algebraic:
+  black: [Bg4, Pe4, Ke5, Re6, Qb7]
+  white: [Kc3, Bf5, Pd5, Sd6]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \av2 solutii']
+date: '2004'
+options: []
+solution: !!python/unicode "1.Ke5*d5 Sd6*e4   2.Re6-e5 Bf5-c8   3.Bg4-e6 Bc8*b7 #\r\
+  \n  1.Qb7-f7 Bf5*e4   2.Qf7-f4 Kc3-d3   3.Re6-f6 Sd6-c4 #"
+stipulation: h#3
+---
+algebraic:
+  black: [Kg2, Pg3, Bg4, Qe4]
+  white: [Sh3, Pd3, Kg5]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \deMENTIUNE\af"Problemist Ucraini", 2010\av3 solutii']
+date: '2010'
+distinction: !!python/unicode 'Comm.'
+options: []
+solution: !!python/unicode '1.Kg2-h2 Sh3-g1   2.Qe4-h1 Kg5*g4   3.g3-g2 Sg1-f3 #
+
+  1.Kg2-h1 Kg5-h4   2.g3-g2 Kh4-g3   3.g2-g1=S Sh3-f2 #
+
+  1.Qe4-h7 Sh3-g1   2.Qh7-h2 Sg1-e2   3.Kg2-h3 Se2-f4 #'
+source: !!python/unicode 'Problemist Ucraini'
+stipulation: h#3
+---
+algebraic:
+  black: [Sd2, Bg3, Kd3]
+  white: [Rg2, Be3, Ke6]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \av2 solutii']
+date: '2010'
+options: []
+solution: !!python/unicode '1.Sd2-f3 Be3-c1   2.Kd3-e4 Rg2-d2   3.Ke4-f4 Rd2-d4 #
+
+  1.Kd3-e4 Be3-d4   2.Ke4-f4 Rg2*g3   3.Sd2-e4 Bd4-e5 #'
+stipulation: h#3
+---
+algebraic:
+  black: [Pe2, Pb3, Kc4, Pb4, Pb5, Pg6, Sc6, Pf7, Pd7, Sh8]
+  white: [Sh1, Bg2, Pb2, Rh3, Sg4, Pg5, Kf6, Qd6, Bb6, Pg7, Pe7, Rc7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2015'
+distinction: !!python/unicode '1st Prize'
+options: []
+solution: "1.e7-e8=S ! zugzwang.\r\n      1...e2-e1=Q\r\n          2.Qd6-e6 +\r\n\
+  \              2...d7-d5\r\n                  3.Qe6-e2 +\r\n                   \
+  \   3...Qe1*e2\r\n                          4.Sg4-e5 +\r\n                     \
+  \         4...Qe2*e5 #\r\n              2...d7*e6\r\n                  3.Sg4-e5\
+  \ +\r\n                      3...Qe1*e5 #\r\n              2...f7*e6\r\n       \
+  \           3.Sg4-e5 +\r\n                      3...Qe1*e5 #\r\n      1...e2-e1=S\r\
+  \n          2.Rh3-g3 zugzwang.\r\n              2...Se1*g2\r\n                 \
+  \ 3.Sg4-e3 +\r\n                      3...Sg2*e3\r\n                          4.Rg3-g4\
+  \ +\r\n                              4...Se3*g4 #\r\n              2...Se1-f3\r\n\
+  \                  3.Sg4-e5 +\r\n                      3...Sf3*e5\r\n          \
+  \                4.Rg3-g4 +\r\n                              4...Se5*g4 #\r\n  \
+  \            2...Se1-d3\r\n                  3.Sg4-e5 +\r\n                    \
+  \  3...Sd3*e5\r\n                          4.Rg3-g4 +\r\n                      \
+  \        4...Se5*g4 #\r\n              2...Se1-c2\r\n                  3.Sg4-e3\
+  \ +\r\n                      3...Sc2*e3\r\n                          4.Rg3-g4 +\r\
+  \n                              4...Se3*g4 #\r\n      1...e2-e1=R\r\n          2.Sg4-e5\
+  \ +\r\n              2...Re1*e5\r\n                  3.Qd6-d5 +\r\n            \
+  \          3...Re5*d5\r\n                          4.Se8-d6 +\r\n              \
+  \                4...Rd5*d6 #\r\n      1...e2-e1=B\r\n          2.Sh1-f2 zugzwang.\r\
+  \n              2...Be1*f2\r\n                  3.Qd6-d4 +\r\n                 \
+  \     3...Bf2*d4 +\r\n                          4.Sg4-e5 +\r\n                 \
+  \             4...Bd4*e5 #\r\n              2...Be1-c3 +\r\n                  3.Qd6-d4\
+  \ +\r\n                      3...Bc3*d4 +\r\n                          4.Sg4-e5\
+  \ +\r\n                              4...Bd4*e5 #\r\n              2...Be1-d2\r\n\
+  \                  3.Qd6-f4 +\r\n                      3...Bd2*f4\r\n          \
+  \                4.Sg4-e5 +\r\n                              4...Bf4*e5 #"
+source: !!python/unicode 'IV-V. Arciakov,Volgograd, 2015'
+stipulation: s#4
+---
+algebraic:
+  black: [Kd5, Re7]
+  white: [Kc1, Bb1, Ra8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \deMENTIUNE\av2 solutii']
+date: '2010'
+distinction: !!python/unicode 'Comm.'
+options: []
+solution: !!python/unicode '1.Kd5-e6 Bb1-f5 +   2.Ke6-f7 Bf5-c8   3.Kf7-e8 Bc8-e6
+  #
+
+  1.Kd5-c4 Bb1-d3 +   2.Kc4-b3 Bd3-a6   3.Kb3-a2 Ba6-c4 #'
+stipulation: h#3
+---
+algebraic:
+  black: [Pe2, Ke3, Bh6, Pc6]
+  white: [Ke1, Pc2, Rg3, Bf3, Sc3, Se6, Qg7, Rf8, Bb8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2014'
+options: []
+solution: !!python/unicode "1.Rf8-c8 ! threat:\r\n          2.Bb8-f4 +\r\n       \
+  \       2...Bh6*f4\r\n                  3.Bf3-g4 +\r\n                      3...Bf4*g3\
+  \ #\r\n      1...Bh6-f4\r\n          2.Bb8-a7 +\r\n              2...c6-c5\r\n \
+  \                 3.Bf3-g4 +\r\n                      3...Bf4*g3 #\r\n      1...Bh6*g7\r\
+  \n          2.Sc3-d5 +\r\n              2...c6*d5\r\n                  3.Rc8-c3\
+  \ +\r\n                      3...Bg7*c3 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Ke7, Pc7, Bc8]
+  white: [Ba3, Pf4, Pe4, Pb4, Kc6]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \av2 solutii']
+date: '2011'
+options: []
+solution: !!python/unicode '1.Bc8-e6 Kc6-b7   2.Ke7-d6 b4-b5 +   3.c7-c5 b5*c6 ep.
+  #
+
+  1.Bc8-d7 + Kc6-b7   2.Ke7-d6 Kb7-a6   3.Kd6-c6 b4-b5 #'
+stipulation: h#3
+---
+algebraic:
+  black: [Qa2, Pg3, Bh4, Pa4, Ke5, Sd5]
+  white: [Bg1, Rf1, Pc3, Kg6]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2013'
+distinction: !!python/unicode 'Comm.'
+options: []
+solution: !!python/unicode '1.Sd5*c3 Rf1-f2   2.Ke5-d4 Kg6-f5   3.Qa2-c4 Rf2-d2 #
+
+  1.Sd5-f6 Bg1-e3   2.Sf6-e4 Rf1-f6   3.Qa2-d5 Be3-f4 #
+
+  1.Sd5-e7 + Kg6-h5   2.Qa2-e6 Bg1-f2   3.Ke5-f6 Bf2-d4 #
+
+  1.Ke5-e6 Rf1-f7   2.Sd5-f6 Bg1-c5   3.Qa2-d5 Rf7-e7 #'
+source: !!python/unicode 'Moskovskii konkurs-2013'
+stipulation: h#3
+---
+algebraic:
+  black: [Sd1, Pe3, Sg4, Kf4, Re5, Pe7]
+  white: [Ph2, Pe2, Sc2, Rg3, Sc3, Ph4, Rg5, Qc5, Bg6, Pe6, Kc6, Pb6, Pd7, Bc7, Pb7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2014'
+options: []
+solution: !!python/unicode "1.Sc2-b4 ! zugzwang.\r\n      1...Sd1-f2\r\n         \
+  \ 2.Sb4-d3 +\r\n              2...Sf2*d3\r\n                  3.Qc5-b4 +\r\n   \
+  \                   3...Sd3*b4 #\r\n      1...Sd1*c3\r\n          2.Sb4-d5 +\r\n\
+  \              2...Sc3*d5\r\n                  3.Qc5-b4 +\r\n                  \
+  \    3...Sd5*b4 #\r\n      1...Sd1-b2\r\n          2.Sb4-d3 +\r\n              2...Sb2*d3\r\
+  \n                  3.Qc5-b4 +\r\n                      3...Sd3*b4 #\r\n      1...Sg4-f2\r\
+  \n          2.Sb4-d3 +\r\n              2...Sf2*d3\r\n                  3.Qc5-b4\
+  \ +\r\n                      3...Sd3*b4 #\r\n      1...Sg4*h2\r\n          2.Rg3-f3\
+  \ +\r\n              2...Sh2*f3\r\n                  3.Qc5-d4 +\r\n            \
+  \          3...Sf3*d4 #\r\n      1...Sg4-h6\r\n          2.Rg5-f5 +\r\n        \
+  \      2...Sh6*f5\r\n                  3.Qc5-d4 +\r\n                      3...Sf5*d4\
+  \ #\r\n      1...Sg4-f6\r\n          2.Sb4-d5 +\r\n              2...Sf6*d5\r\n\
+  \                  3.Qc5-b4 +\r\n                      3...Sd5*b4 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Bf2, Bh3, Kg3, Ph4, Pg4, Pg5, Sh6, Rg6, Pf6, Pc6, Rg7, Pe7, Pa7, Sg8, Qe8]
+  white: [Bg1, Se1, Ke6]
+authors: ['Гиндэ, Анатолий Алексеевич', !!python/unicode 'A. Ivanov']
+comments: [!!python/unicode 'a)   b)    c)     d)']
+date: '2013'
+distinction: !!python/unicode 'Comm.'
+options: []
+solution: !!python/unicode '1.Bf2-b6 Bg1-c5   2.Qe8-a8 Bc5*e7   3.Bb6-f2 Be7-d6 #'
+source: !!python/unicode 'V. Cepijnii-80'
+stipulation: h#3
+---
+algebraic:
+  black: [Bg2, Kc2, Rb3, Pe4, Pf6, Pd6, Pf7, Pc7, Pa7]
+  white: [Re1, Sb1, Rh2, Pa2, Pe3, Qd4, Ba4, Kd5, Pa5, Pc6]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2010'
+options: []
+solution: !!python/unicode "1.Qd4-e5 ! threat:\r\n          2.Ba4*b3 +\r\n       \
+  \       2...Kc2-d3\r\n                  3.Qe5*e4 +\r\n                      3...Bg2*e4\
+  \ #\r\n          2.Rh2*g2 +\r\n              2...Kc2-d3\r\n                  3.Ba4-b5\
+  \ +\r\n                      3...Rb3*b5 #\r\n      1...d6*e5\r\n          2.Rh2*g2\
+  \ +\r\n              2...Kc2-d3\r\n                  3.Ba4-b5 +\r\n            \
+  \          3...Rb3*b5 #\r\n      1...f6-f5\r\n          2.Rh2*g2 +\r\n         \
+  \     2...Kc2-d3\r\n                  3.Ba4-b5 +\r\n                      3...Rb3*b5\
+  \ #\r\n      1...f6*e5\r\n          2.Rh2*g2 +\r\n              2...Kc2-d3\r\n \
+  \                 3.Ba4-b5 +\r\n                      3...Rb3*b5 #\r\n      1...a7-a6\r\
+  \n          2.Ba4*b3 +\r\n              2...Kc2-d3\r\n                  3.Qe5*e4\
+  \ +\r\n                      3...Bg2*e4 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Bg1, Sf5, Re5, Pd5, Kf6, Be6, Pe7, Pa7, Sh8]
+  white: [Rf2, Qe3, Sc3, Ph4, Bd4, Pb4, Kc5, Pb5, Ph6, Rc6, Pa6, Pg7, Bg8, Sf8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2013'
+options: []
+solution: !!python/unicode "1.Qe3-g3 ! zugzwang.\r\n      1...Bg1-h2\r\n         \
+  \ 2.Qg3*e5 +\r\n              2...Bh2*e5\r\n                  3.g7*h8=S\r\n    \
+  \                  3...Be5*d4 #\r\n                  3.g7*h8=R\r\n             \
+  \         3...Be5*d4 #\r\n      1...Bg1*f2\r\n          2.Qg3-g6 +\r\n         \
+  \     2...Sh8*g6\r\n                  3.Sc3-e4 +\r\n                      3...d5*e4\
+  \ #\r\n      1...Sh8-f7\r\n          2.Bd4*e5 +\r\n              2...Sf7*e5\r\n\
+  \                  3.Sf8-d7 +\r\n                      3...Se5*d7 #\r\n      1...Sh8-g6\r\
+  \n          2.Bd4*e5 +\r\n              2...Sg6*e5\r\n                  3.Sf8-d7\
+  \ +\r\n                      3...Se5*d7 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Re1, Qd2, Sg3, Rc3, Bb4, Kd5, Sf6, Pd6, Pf7]
+  white: [Rd1, Se2, Kh3]
+authors: ['Гиндэ, Анатолий Алексеевич', !!python/unicode 'Gr. Muset']
+comments: [!!python/unicode 'extra: \af4 solutii']
+date: '2013'
+options: []
+solution: !!python/unicode '1.Qd2-d4 Se2*g3   2.Re1-e6 Rd1-f1   3.Kd5-e5 Rf1-f5 #
+
+  1.Kd5-e5 Se2*g3   2.Qd2-e3 Rd1-d5 +   3.Ke5-f4 Rd5-f5 #
+
+  1.Kd5-e6 Rd1*d2   2.d6-d5 Rd2*d5   3.Bb4-e7 Se2-f4 #
+
+  1.Kd5-c4 Rd1*d2   2.Kc4-b3 Se2-c1 +   3.Kb3-a3 Rd2-a2 #'
+stipulation: h#3
+---
+algebraic:
+  black: [Ba1, Rb2, Se7, Pd7, Pa7, Qf8, Ke8]
+  white: [Re2, Bd4, Pa4, Bg6, Qa6, Sh7, Sf7, Pc7, Kh8, Rg8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \de"Problemist Ucraini-10"\afMENTIUNE']
+date: '2013'
+distinction: !!python/unicode 'Comm.'
+options: []
+solution: !!python/unicode "1.Bd4-b6 ! zugzwang.\r\n      1...Rb2-b1 +\r\n       \
+  \   2.Sf7-e5 +\r\n              2...Se7*g6 #\r\n      1...Rb2-a2 +\r\n         \
+  \ 2.Sf7-e5 +\r\n              2...Se7*g6 #\r\n      1...Rb2*b6 +\r\n          2.Sf7-e5\
+  \ +\r\n              2...Rb6*g6\r\n                  3.Qa6*g6 +\r\n            \
+  \          3...Se7*g6 #\r\n      1...Rb2-b5 +\r\n          2.Sf7-e5 +\r\n      \
+  \        2...Se7*g6 #\r\n      1...Rb2-b4 +\r\n          2.Sf7-e5 +\r\n        \
+  \      2...Se7*g6 #\r\n      1...Rb2-b3 +\r\n          2.Sf7-e5 +\r\n          \
+  \    2...Se7*g6 #\r\n      1...Rb2*e2 +\r\n          2.Sf7-e5 +\r\n            \
+  \  2...Se7*g6 #\r\n      1...Rb2-d2 +\r\n          2.Sf7-e5 +\r\n              2...Se7*g6\
+  \ #\r\n      1...Rb2-c2 +\r\n          2.Sf7-e5 +\r\n              2...Se7*g6 #\r\
+  \n      1...a7*b6\r\n          2.Qa6-b5 zugzwang.\r\n              2...Rb2-b1 +\r\
+  \n                  3.Sf7-e5 +\r\n                      3...Se7*g6 #\r\n       \
+  \       2...Rb2-a2 +\r\n                  3.Sf7-e5 +\r\n                      3...Se7*g6\
+  \ #\r\n              2...Rb2*b5 +\r\n                  3.Sf7-e5 +\r\n          \
+  \            3...Se7*g6 #\r\n              2...Rb2-b4 +\r\n                  3.Sf7-e5\
+  \ +\r\n                      3...Se7*g6 #\r\n              2...Rb2-b3 +\r\n    \
+  \              3.Sf7-e5 +\r\n                      3...Se7*g6 #\r\n            \
+  \  2...Rb2*e2 +\r\n                  3.Sf7-e5 +\r\n                      3...Se7*g6\
+  \ #\r\n              2...Rb2-d2 +\r\n                  3.Sf7-e5 +\r\n          \
+  \            3...Se7*g6 #\r\n              2...Rb2-c2 +\r\n                  3.Sf7-e5\
+  \ +\r\n                      3...Se7*g6 #\r\n      1...d7-d5\r\n          2.Qa6-b5\
+  \ +\r\n              2...Rb2*b5 +\r\n                  3.Sf7-e5 +\r\n          \
+  \            3...Se7*g6 #\r\n      1...d7-d6\r\n          2.Qa6-b5 +\r\n       \
+  \       2...Rb2*b5 +\r\n                  3.Sf7-e5 +\r\n                      3...Se7*g6\
+  \ #"
+source: !!python/unicode 'Problemist Ucraini-10'
+stipulation: s#3
+---
+algebraic:
+  black: [Be4, Kf5, Pf6, Pe6, Pd7]
+  white: [Bb3, Pc4, Kc5]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \av2 solutii']
+date: '2011'
+options: []
+solution: !!python/unicode "1.e6-e5 Kc5-b6   2.Kf5-e6 Kb6-c7   3.Be4-f5 c4-c5 +  \
+  \ 4.d7-d5 c5*d6 ep. #\n  1.d7-d6 + Kc5*d6   2.e6-e5 Kd6-c7   3.Kf5-e6 Kc7-d8   4.Be4-f5\
+  \ c4-c5 #"
+stipulation: h#4
+---
+algebraic:
+  black: [Pe3, Kf4, Ph5, Sf5, Rh6, Pb6, Bh7]
+  white: [Qh1, Sf1, Bd1, Sb3, Ph4, Pc4, Kd5, Pc6, Bg7, Rf7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2015'
+distinction: !!python/unicode 'Comm.'
+options: []
+solution: "1.Sb3-d4 ! threat:\r\n          2.Rf7*f5 +\r\n              2...Bh7*f5\r\
+  \n                  3.Qh1-e4 +\r\n                      3...Bf5*e4 #\r\n       \
+  \   2.Sd4-e6 +\r\n              2...Rh6*e6\r\n                  3.Bg7-e5 +\r\n \
+  \                     3...Re6*e5 #\r\n      1...e3-e2\r\n          2.Bg7-e5 +\r\n\
+  \              2...Kf4-g4\r\n                  3.Sf1-e3 +\r\n                  \
+  \    3...Sf5*e3 #\r\n      1...b6-b5\r\n          2.Sd4-e6 +\r\n              2...Rh6*e6\r\
+  \n                  3.Bg7-e5 +\r\n                      3...Re6*e5 #\r\n      1...Rh6*c6\r\
+  \n          2.Rf7*f5 +\r\n              2...Bh7*f5\r\n                  3.Qh1-e4\
+  \ +\r\n                      3...Bf5*e4 #\r\n      1...Rh6-f6\r\n          2.Sd4-e6\
+  \ +\r\n              2...Rf6*e6\r\n                  3.Bg7-e5 +\r\n            \
+  \          3...Re6*e5 #\r\n      1...Rh6-g6\r\n          2.Sd4-e6 +\r\n        \
+  \      2...Rg6*e6\r\n                  3.Bg7-e5 +\r\n                      3...Re6*e5\
+  \ #\r\n      1...Bh7-g6\r\n          2.Rf7*f5 +\r\n              2...Bg6*f5\r\n\
+  \                  3.Qh1-e4 +\r\n                      3...Bf5*e4 #\r\n      1...Bh7-g8\r\
+  \n          2.Sd4-e6 +\r\n              2...Rh6*e6\r\n                  3.Bg7-e5\
+  \ +\r\n                      3...Re6*e5 #"
+source: !!python/unicode '"S. Bilik-50"'
+stipulation: s#3
+---
+algebraic:
+  black: [Sh2, Pd2, Pc3, Pb4, Kf5, Sa5, Pf6, Pb7]
+  white: [Sd1, Bb1, Kc2, Pd3, Pb3, Rg4, Pf4, Pb6, Sc7, Qg8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '1998'
+options: []
+solution: !!python/unicode "1.Sc7-e6 ! zugzwang.\r\n      1...Sh2-f1\r\n         \
+  \ 2.Sd1-e3 +\r\n              2...Sf1*e3 #\r\n      1...Sh2*g4\r\n          2.Sd1-e3\
+  \ +\r\n              2...Sg4*e3 #\r\n      1...Sh2-f3\r\n          2.Se6-d4 +\r\n\
+  \              2...Sf3*d4 #\r\n      1...Sa5*b3\r\n          2.Se6-d4 +\r\n    \
+  \          2...Sb3*d4 #\r\n      1...Sa5-c4\r\n          2.Sd1-e3 +\r\n        \
+  \      2...Sc4*e3 #\r\n      1...Sa5-c6\r\n          2.Se6-d4 +\r\n            \
+  \  2...Sc6*d4 #"
+stipulation: s#2
+---
+algebraic:
+  black: [Kg7, Qh8, Rg8]
+  white: [Kh2, Ph5]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2011'
+options: []
+solution: !!python/unicode '1.Kg7-f6 h5-h6   2.Kf6-g5 h6-h7   3.Kg5-h4 h7*g8=Q   4.Qh8-h5
+  Qg8-g3 #'
+stipulation: h#4
+---
+algebraic:
+  black: [Be1, Ph4, Sd5, Rc5, Pb5, Ph6, Kd6, Bc6, Pd7, Pb7]
+  white: [Bf1, Rd2, Sb2, Ph3, Qe3, Rg4, Bb4, Ph5, Pf5, Ka5, Sg6, Pb6]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \de"V. Cepijnii "\afMENTIUNE\sv"Problemist Ukraini
+    - 10"']
+date: '2013'
+options: []
+solution: !!python/unicode "1.Bf1-g2 ! zugzwang.\r\n      1...Be1-g3\r\n         \
+  \ 2.Qe3*g3 +\r\n              2...h4*g3\r\n                  3.Bb4-a3\r\n      \
+  \                3...b5-b4 #\r\n      1...Be1-f2\r\n          2.Qe3*c5 +\r\n   \
+  \           2...Bf2*c5\r\n                  3.Bg2-e4\r\n                      3...Bc5*b4\
+  \ #\r\n      1...Be1*d2\r\n          2.Qe3-e7 +\r\n              2...Sd5*e7\r\n\
+  \                  3.Sb2-c4 +\r\n                      3...b5*c4 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Bh1, Ph2, Kd3, Sh4, Rg6, Pd6, Pd7]
+  white: [Rc1, Sg2, Se2, Rc2, Be3, Kd5, Qh7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '1998'
+options: []
+solution: !!python/unicode "1.Be3-g5 ! threat:\r\n          2.Bg5*h4\r\n         \
+  \     2...Bh1*g2 #\r\n      1...Sh4-f3\r\n          2.Sg2-e1 +\r\n             \
+  \ 2...Sf3*e1 #\r\n      1...Sh4*g2\r\n          2.Qh7-h3 +\r\n              2...Sg2-e3\
+  \ #\r\n      1...Sh4-f5\r\n          2.Qh7*g6\r\n              2...Bh1*g2 #"
+stipulation: s#2
+---
+algebraic:
+  black: [Pf4, Kc4, Pe5, Rd5, Sh6, Sc6, Pb7, Ba7]
+  white: [Qb1, Pd2, Pa2, Pf3, Sd3, Ke4, Pf5, Rb5, Bf7, Se8, Rc8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2013'
+options: []
+solution: !!python/unicode "1.Rb5-b6 ! threat:\r\n          2.Sd3*e5 +\r\n       \
+  \       2...Kc4-c5\r\n                  3.d2-d4 +\r\n                      3...Rd5*d4\
+  \ #\r\n      1...Sh6-g4\r\n          2.Rc8*c6 +\r\n              2...b7*c6\r\n \
+  \                 3.Bf7*d5 +\r\n                      3...c6*d5 #\r\n      1...Sh6*f7\r\
+  \n          2.Qb1-b5 +\r\n              2...Rd5*b5\r\n                  3.Se8-d6\
+  \ +\r\n                      3...Sf7*d6 #\r\n      1...Ba7-b8\r\n          2.Rc8*c6\
+  \ +\r\n              2...b7*c6\r\n                  3.Bf7*d5 +\r\n             \
+  \         3...c6*d5 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Pg3, Sd3, Bh4, Kg4, Bc4, Pg5, Pc5]
+  white: [Bc1, Pg2, Qc2, Ra4, Pe5, Pg6, Kf6, Sg7, Pe7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+options: []
+solution: !!python/unicode "1.Qc2-d2 ! zugzwang.\r\n      1...Sd3-b2\r\n         \
+  \ 2.Qd2-f4 +\r\n              2...g5*f4 #\r\n      1...Sd3*c1\r\n          2.Qd2*g5\
+  \ +\r\n              2...Bh4*g5 #\r\n      1...Sd3-e1\r\n          2.Qd2-f4 +\r\n\
+  \              2...g5*f4 #\r\n      1...Sd3-f2\r\n          2.Qd2-f4 +\r\n     \
+  \         2...g5*f4 #\r\n      1...Sd3-f4\r\n          2.Qd2*f4 +\r\n          \
+  \    2...g5*f4 #\r\n      1...Sd3*e5\r\n          2.Qd2-d7 +\r\n              2...Se5*d7\
+  \ #\r\n      1...Sd3-b4\r\n          2.Qd2-f4 +\r\n              2...g5*f4 #"
+stipulation: s#2
+---
+algebraic:
+  black: [Rh1, Bf1, Sg3, Pe4, Pf5, Sc5, Kc7, Pa7, Bb8]
+  white: [Rb1, Bf4, Pd4, Qc4, Ke5, Sf6, Pg7, Pe7, Pb7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2013'
+options: []
+solution: !!python/unicode "1.e7-e8=Q ! threat:\r\n          2.Qe8-e7 +\r\n      \
+  \        2...Kc7-c6 +\r\n                  3.Qe7-d6 +\r\n                      3...Bb8*d6\
+  \ #\r\n      1...Bf1*c4\r\n          2.Qe8-d8 +\r\n              2...Kc7-c6 +\r\n\
+  \                  3.Qd8-d6 +\r\n                      3...Bb8*d6 #\r\n      1...Sg3-e2\r\
+  \n          2.Qc4-f7 +\r\n              2...Sc5-d7 +\r\n                  3.Ke5-d5\
+  \ +\r\n                      3...Se2*f4 #\r\n      1...Sg3-h5\r\n          2.Qc4-f7\
+  \ +\r\n              2...Sc5-d7 +\r\n                  3.Ke5-d5 +\r\n          \
+  \            3...Sh5*f4 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Pe3, Sc4, Kc5, Pb5, Pc6, Ba6, Re7, Pd7, Pb7]
+  white: [Pe2, Pc2, Kd3, Rc3, Pa3, Pa5, Sf6, Rb6, Bc7, Qf8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '1998'
+distinction: !!python/unicode 'Comm.'
+options: []
+solution: !!python/unicode "1.Bc7-f4 ! zugzwang.\n      1...b5-b4\n          2.Rc3*c4\
+  \ +\n              2...Ba6*c4 #\n      1...d7-d5\n          2.Sf6-e4 +\n       \
+  \       2...d5*e4 #\n      1...d7-d6\n          2.Bf4*e3 +\n              2...Re7*e3\
+  \ #"
+source: !!python/unicode '"Uraliskii problemist - 20"'
+stipulation: s#2
+---
+algebraic:
+  black: [Rh1, Pe3, Qa3, Bf4, Ke4, Pb4, Pa4, Sa8]
+  white: [Bg1, Ph2, Pe2, Pb2, Pa2, Bh3, Rh4, Kh5, Ph6, Pg6, Sc6, Sh7, Rd7, Qd8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2012'
+options: []
+solution: !!python/unicode "1.Qd8-g5 ! zugzwang.\r\n      1...Rh1*g1\r\n         \
+  \ 2.Qg5-g2 +\r\n              2...Rg1*g2\r\n                  3.Sh7-g5 +\r\n   \
+  \                   3...Rg2*g5 #\r\n      1...Rh1*h2\r\n          2.Qg5-g2 +\r\n\
+  \              2...Rh2*g2\r\n                  3.Sh7-g5 +\r\n                  \
+  \    3...Rg2*g5 #\r\n      1...Qa3*b2\r\n          2.Qg5-e5 +\r\n              2...Qb2*e5\
+  \ +\r\n                  3.Sh7-g5 +\r\n                      3...Qe5*g5 #\r\n  \
+  \    1...Qa3*a2\r\n          2.Qg5-d5 +\r\n              2...Qa2*d5 +\r\n      \
+  \            3.Sh7-g5 +\r\n                      3...Qd5*g5 #\r\n      1...Qa3-d3\r\
+  \n          2.Qg5-d5 +\r\n              2...Qd3*d5 +\r\n                  3.Sh7-g5\
+  \ +\r\n                      3...Qd5*g5 #\r\n      1...Qa3-c3\r\n          2.Qg5-e5\
+  \ +\r\n              2...Qc3*e5 +\r\n                  3.Sh7-g5 +\r\n          \
+  \            3...Qe5*g5 #\r\n      1...Qa3-b3\r\n          2.Qg5-d5 +\r\n      \
+  \        2...Qb3*d5 +\r\n                  3.Sh7-g5 +\r\n                      3...Qd5*g5\
+  \ #\r\n      1...b4-b3\r\n          2.Qg5-e7 +\r\n              2...Qa3*e7\r\n \
+  \                 3.Sh7-g5 +\r\n                      3...Qe7*g5 #\r\n      1...Sa8-b6\r\
+  \n          2.Qg5-d5 +\r\n              2...Sb6*d5\r\n                  3.Sh7-f6\
+  \ +\r\n                      3...Sd5*f6 #\r\n      1...Sa8-c7\r\n          2.Qg5-d5\
+  \ +\r\n              2...Sc7*d5\r\n                  3.Sh7-f6 +\r\n            \
+  \          3...Sd5*f6 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Pe4, Pf5, Ba5, Ph6, Ke6, Pa6, Bb7, Sa7, Qa8]
+  white: [Pg3, Pe3, Kf4, Pd4, Pc4, Qh5, Pc5, Bb5, Sf6, Pd6, Bg7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \de"Jukov - 115"\afMENTIUNE']
+date: '2011'
+options: []
+solution: !!python/unicode "1.Sf6-h7 ! threat:\r\n          2.Sh7-f8 +\r\n       \
+  \       2...Qa8*f8\r\n                  3.Qh5*f5 +\r\n                      3...Qf8*f5\
+  \ #\r\n      1...Ba5-d8\r\n          2.Qh5-e8 +\r\n              2...Bd8-e7\r\n\
+  \                  3.Sh7-g5 +\r\n                      3...h6*g5 #\r\n      1...Sa7-c8\r\
+  \n          2.Qh5-e8 +\r\n              2...Sc8-e7\r\n                  3.Qe8-g6\
+  \ +\r\n                      3...Se7*g6 #\r\n      1...Bb7-c8\r\n          2.d4-d5\
+  \ +\r\n              2...Qa8*d5\r\n                  3.Qh5*f5 +\r\n            \
+  \          3...Qd5*f5 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Bh1, Kh2, Pg2, Pd4]
+  white: [Qf2, Bc2, Pg4, Sf4, Sh6, Pa7, Bb8, Ka8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \av3 solutii
+
+    1.Cf7!   1. g5!     1.Ne4!']
+date: '2016'
+options: []
+stipulation: s#4
+---
+algebraic:
+  black: [Pd4, Sh5, Pe5, Pc5, Kf6, Pb6, Pf7]
+  white: [Qh1, Bb2, Pg3, Sf3, Se3, Be4, Pc4, Rg5, Pf5, Kd5, Pb5, Pd6, Rc6, Pa6, Pg7,
+    Pb7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'en passan']
+date: '2012'
+options: [EnPassant e6]
+solution: !!python/unicode "1.f5*e6 ep. ! threat:\n          2.Qh1*h5\n          \
+  \    2...f7*e6 #\n      1...Sh5-f4 +\n          2.g3*f4\n              2...f7*e6\
+  \ #\n      1...Sh5*g3\n          2.Rg5*g3\n              2...f7*e6 #\n      1...Sh5*g7\n\
+  \          2.Qh1-h8\n              2...f7*e6 #"
+stipulation: s#2
+---
+algebraic:
+  black: [Kf4, Sf5, Pc6, Ph7, Bd7, Bh8]
+  white: [Bh1, Sf1, Sh4, Kh5, Pe5, Ph6, Qd6, Rf8, Re8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2013'
+options: []
+solution: !!python/unicode "1.Qd6-d1 ! threat:\r\n          2.Rf8*f5 +\r\n       \
+  \       2...Bd7*f5\r\n                  3.Qd1-g4 +\r\n                      3...Bf5*g4\
+  \ #\r\n      1...Bh8-f6\r\n          2.Sh4-g2 +\r\n              2...Kf4-e4\r\n\
+  \                  3.Sf1-g3 +\r\n                      3...Sf5*g3 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Bg2, Kc2, Pb2, Rb3, Pe4, Pd6, Pc7]
+  white: [Re1, Sb1, Rh2, Pe3, Bd4, Bc4, Qa4, Kd5, Pe6, Pc6]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2007'
+options: []
+solution: !!python/unicode "1.Bd4-b6 ! threat:\r\n          2.Bc4*b3 +\r\n       \
+  \       2...Kc2-d3\r\n                  3.Qa4*e4 +\r\n                      3...Bg2*e4\
+  \ #\r\n      1...c7*b6\r\n          2.Bc4-a6 zugzwang.\r\n              2...b6-b5\r\
+  \n                  3.Qa4*e4 +\r\n                      3...Rb3-d3 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Sg2, Pe3, Pb3, Ke4, Pc4, Pd5, Pb5]
+  white: [Pe2, Pb2, Kc3, Rg4, Pf4, Pb4, Pe5, Pf6, Be6, Qc6]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2015'
+distinction: !!python/unicode 'Comm.'
+options: []
+solution: !!python/unicode "1.Qc6-a8 ! zugzwang.\n      1...Sg2-e1\n          2.Qa8-a1\
+  \ threat:\n                  3.Qa1*e1\n                      3...d5-d4 #\n     \
+  \         2...Se1-g2\n                  3.Qa1-h1\n                      3...d5-d4\
+  \ #\n              2...Se1-f3\n                  3.Qa1-h1\n                    \
+  \  3...d5-d4 #\n              2...Se1-d3\n                  3.Qa1-b1\n         \
+  \             3...d5-d4 #\n              2...Se1-c2\n                  3.Qa1-b1\n\
+  \                      3...d5-d4 #\n      1...Sg2-h4\n          2.Qa8-h8 threat:\n\
+  \                  3.Qh8*h4\n                      3...d5-d4 #\n               \
+  \   3.Rg4*h4\n                      3...d5-d4 #\n              2...Sh4-f3\n    \
+  \              3.Qh8-h1\n                      3...d5-d4 #\n              2...Sh4-g2\n\
+  \                  3.Qh8-h1\n                      3...d5-d4 #\n              2...Sh4-g6\n\
+  \                  3.Qh8-h7\n                      3...d5-d4 #\n              2...Sh4-f5\n\
+  \                  3.Qh8-h7\n                      3...d5-d4 #\n      1...Sg2*f4\n\
+  \          2.Qa8-b8\n              2...d5-d4 #"
+source: !!python/unicode '"Serghei Bilik"'
+stipulation: s#3
+---
+algebraic:
+  black: [Pc2, Kc5, Pc6, Sb6, Pc7, Pb7]
+  white: [Se3, Sc4, Ka5, Qe6, Rd7, Ba7, Bg8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '1999'
+options: []
+solution: !!python/unicode "1.Sc4-d2 ! zugzwang.\r\n      1...c2-c1=Q\r\n        \
+  \  2.Qe6-c4 +\r\n              2...Qc1*c4\r\n                  3.Ba7*b6 +\r\n  \
+  \                    3...c7*b6 #\r\n      1...c2-c1=S\r\n          2.Rd7-d5 +\r\n\
+  \              2...c6*d5\r\n                  3.Sd2-b3 +\r\n                   \
+  \   3...Sc1*b3 #\r\n      1...c2-c1=R\r\n          2.Qe6-c4 +\r\n              2...Rc1*c4\r\
+  \n                  3.Ba7*b6 +\r\n                      3...c7*b6 #\r\n      1...c2-c1=B\r\
+  \n          2.Qe6-b3 zugzwang.\r\n              2...Bc1*d2 +\r\n               \
+  \   3.Qb3-b4 +\r\n                      3...Bd2*b4 #\r\n                  3.Qb3-c3\
+  \ +\r\n                      3...Bd2*c3 #\r\n              2...Bc1-a3\r\n      \
+  \            3.Qb3-b4 +\r\n                      3...Ba3*b4 #\r\n              2...Bc1-b2\r\
+  \n                  3.Qb3-c3 +\r\n                      3...Bb2*c3 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Bg2, Qa2, Pc3, Sb3, Rg5, Ke6, Pa6, Sd7]
+  white: [Rf3, Pg4, Pd4, Se5, Pa5, Sg6, Kc6, Pc7, Pb7, Qf8, Bc8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2012'
+options: []
+solution: !!python/unicode "1.Se5-d3 ! threat:\r\n          2.d4-d5 +\r\n        \
+  \      2...Rg5*d5\r\n                  3.Qf8-d6 +\r\n                      3...Rd5*d6\
+  \ #\r\n      1...Rg5*g4\r\n          2.Sd3-c5 +\r\n              2...Sb3*c5\r\n\
+  \                  3.d4-d5 +\r\n                      3...Qa2*d5 #\r\n      1...Rg5-c5\
+  \ +\r\n          2.Sd3*c5 +\r\n              2...Sb3*c5\r\n                  3.d4-d5\
+  \ +\r\n                      3...Qa2*d5 #\r\n      1...Rg5*g6\r\n          2.Sd3-c5\
+  \ +\r\n              2...Sb3*c5\r\n                  3.Qf8-e7 +\r\n            \
+  \          3...Ke6*e7 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Rb1, Qa1, Pb2, Ba2, Pd3, Pe4, Pa4, Pf5, Rd5, Pa5, Ke6, Pc7]
+  white: [Qf2, Se3, Ka3, Pd6, Pc6, Ra6, Ph7, Pg7, Rf7, Bh8]
+authors: [!!python/unicode 'Ivanov', 'Гиндэ, Анатолий Алексеевич', !!python/unicode 'Cebanov']
+date: '1998'
+options: []
+solution: !!python/unicode "1.g7-g8=Q ! threat:\r\n          2.Qg8-e8 +\r\n      \
+  \        2...Ke6*d6\r\n                  3.Se3-c4 +\r\n                      3...Ba2*c4\
+  \ #\r\n          2.Rf7-f6 +\r\n              2...Ke6-e5\r\n                  3.Qg8*d5\
+  \ +\r\n                      3...Ba2*d5 #\r\n                  3.Se3-c4 +\r\n  \
+  \                    3...Ba2*c4 #\r\n      1...Rb1-c1\r\n          2.Rf7-f6 +\r\n\
+  \              2...Ke6-e5\r\n                  3.Qg8*d5 +\r\n                  \
+  \    3...Ba2*d5 #\r\n      1...Rd5-d4\r\n          2.Rf7-f6 +\r\n              2...Ke6-e5\r\
+  \n                  3.Qg8-e6 +\r\n                      3...Ba2*e6 #\r\n       \
+  \           3.Qg8-e8 +\r\n                      3...Ba2-e6 #\r\n          2.Qf2*f5\
+  \ +\r\n              2...Ke6*d6\r\n                  3.Qg8-g6 +\r\n            \
+  \          3...Ba2-e6 #\r\n      1...Rd5-b5\r\n          2.Rf7-f6 +\r\n        \
+  \      2...Ke6-e5\r\n                  3.Se3-c4 +\r\n                      3...Ba2*c4\
+  \ #\r\n      1...Rd5-c5\r\n          2.Qg8-e8 +\r\n              2...Ke6*d6\r\n\
+  \                  3.Rf7-f6 +\r\n                      3...Ba2-e6 #\r\n        \
+  \  2.Rf7-e7 +\r\n              2...Ke6*d6\r\n                  3.Qg8-e6 +\r\n  \
+  \                    3...Ba2*e6 #\r\n                  3.Re7-e6 +\r\n          \
+  \            3...Ba2*e6 #\r\n      1...Rd5*d6\r\n          2.Rf7-f8 +\r\n      \
+  \        2...Ke6-e7\r\n                  3.Qg8-f7 +\r\n                      3...Ba2*f7\
+  \ #\r\n      1...Rd5-e5\r\n          2.Rf7-g7 +\r\n              2...Ke6-f6\r\n\
+  \                  3.Qg8-f7 +\r\n                      3...Ba2*f7 #\r\n        \
+  \      2...Ke6*d6\r\n                  3.Se3-c4 +\r\n                      3...Ba2*c4\
+  \ #\r\n      1...Ke6*d6\r\n          2.Qg8-d8 +\r\n              2...Kd6-e6\r\n\
+  \                  3.Qd8*d5 +\r\n                      3...Ba2*d5 #\r\n        \
+  \      2...Kd6-c5\r\n                  3.Qd8*d5 +\r\n                      3...Ba2*d5\
+  \ #\r\n          2.Rf7-f6 +\r\n              2...Kd6-e7\r\n                  3.Se3*d5\
+  \ +\r\n                      3...Ba2*d5 #\r\n              2...Kd6-e5\r\n      \
+  \            3.Qg8*d5 +\r\n                      3...Ba2*d5 #\r\n              \
+  \    3.Se3-c4 +\r\n                      3...Ba2*c4 #\r\n              2...Kd6-c5\r\
+  \n                  3.Qg8*d5 +\r\n                      3...Ba2*d5 #\r\n       \
+  \   2.Rf7-d7 +\r\n              2...Kd6-c5\r\n                  3.Qg8*d5 +\r\n \
+  \                     3...Ba2*d5 #\r\n                  3.Rd7*d5 +\r\n         \
+  \             3...Ba2*d5 #\r\n      1...c7*d6\r\n          2.Rf7*f5 +\r\n      \
+  \        2...Ke6-e7\r\n                  3.Se3*d5 +\r\n                      3...Ba2*d5\
+  \ #\r\n          2.Rf7-f6 +\r\n              2...Ke6-e7\r\n                  3.Se3*d5\
+  \ +\r\n                      3...Ba2*d5 #\r\n              2...Ke6-e5\r\n      \
+  \            3.Qg8*d5 +\r\n                      3...Ba2*d5 #\r\n              \
+  \    3.Se3-c4 +\r\n                      3...Ba2*c4 #\r\n          2.Rf7-e7 +\r\n\
+  \              2...Ke6*e7\r\n                  3.Se3*d5 +\r\n                  \
+  \    3...Ba2*d5 #\r\n          2.Rf7-f8 +\r\n              2...Ke6-e7\r\n      \
+  \            3.Se3*d5 +\r\n                      3...Ba2*d5 #"
+source: !!python/unicode 'VI-WCCT'
+stipulation: s#3
+---
+algebraic:
+  black: [Pc3, Sa4, Ka5, Pe6, Pa6, Rc7, Qe8]
+  white: [Pc2, Pa2, Kb3, Ra3, Sd6, Qf7, Re7, Bd7, Bd8, Sc8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '1996'
+options: []
+solution: !!python/unicode "1.Qf7-f3 ! threat:\r\n          2.Qf3-d5 +\r\n       \
+  \       2...e6*d5\r\n                  3.Sd6-c4 +\r\n                      3...d5*c4\
+  \ #\r\n      1...e6-e5\r\n          2.Re7*e5 +\r\n              2...Qe8*e5\r\n \
+  \                 3.Qf3*c3 +\r\n                      3...Qe5*c3 #"
+stipulation: s#3
+---
+algebraic:
+  black: [Bc2, Pa2, Ra3, Bh4, Pg4, Kb4, Pa4, Qh5, Pc5, Ph6, Rh7, Sf7]
+  white: [Se1, Bc1, Pe2, Pb2, Rg3, Sc3, Pb3, Pf6, Pd6, Qc6, Kb6, Pa6, Re7, Bc8]
+authors: ['Гиндэ, Анатолий Алексеевич']
+comments: [!!python/unicode 'extra: \deTema IX-WCCT, 2011']
+date: '2011'
+options: []
+solution: !!python/unicode "1.Re7-b7 ! threat:\r\n          2.Sc3*a2 +\r\n       \
+  \       2...Ra3*a2\r\n                  3.Qc6*c5 +\r\n                      3...Qh5*c5\
+  \ #\r\n          2.Sc3-d5 +\r\n              2...Qh5*d5\r\n                  3.Qc6*c5\
+  \ +\r\n                      3...Qd5*c5 #\r\n      1...Bc2-f5\r\n          2.Sc3*a2\
+  \ +\r\n              2...Ra3*a2\r\n                  3.Se1-c2 +\r\n            \
+  \          3...Bf5*c2\r\n                          4.Qc6*c5 +\r\n              \
+  \                4...Qh5*c5 #\r\n      1...Bc2-e4\r\n          2.Sc3*a2 +\r\n  \
+  \            2...Ra3*a2\r\n                  3.Qc6*c5 +\r\n                    \
+  \  3...Qh5*c5 #\r\n      1...Bc2-d3\r\n          2.Se1-c2 +\r\n              2...Bd3*c2\r\
+  \n                  3.Sc3*a2 +\r\n                      3...Ra3*a2\r\n         \
+  \                 4.Qc6*c5 +\r\n                              4...Qh5*c5 #\r\n \
+  \                 3.Sc3-d5 +\r\n                      3...Qh5*d5\r\n           \
+  \               4.Qc6*c5 +\r\n                              4...Qd5*c5 #\r\n   \
+  \           2...Kb4*b3\r\n                  3.Sc2-a1 +\r\n                     \
+  \ 3...Kb3-b4\r\n                          4.Qc6*c5 +\r\n                       \
+  \       4...Qh5*c5 #\r\n                      3...Kb3-c4\r\n                   \
+  \       4.Qc6*c5 +\r\n                              4...Qh5*c5 #\r\n      1...Kb4*b3\r\
+  \n          2.Sc3-b1 +\r\n              2...Bc2-d3\r\n                  3.Rg3*d3\
+  \ +\r\n                      3...Kb3-b4\r\n                          4.Qc6*c5 +\r\
+  \n                              4...Qh5*c5 #\r\n                      3...Kb3-c4\r\
+  \n                          4.Qc6*c5 +\r\n                              4...Qh5*c5\
+  \ #\r\n                  3.Sb1-d2 +\r\n                      3...Kb3-b4\r\n    \
+  \                      4.Qc6*c5 +\r\n                              4...Qh5*c5 #\r\
+  \n              2...Kb3-b4\r\n                  3.Qc6*c5 +\r\n                 \
+  \     3...Qh5*c5 #\r\n              2...Kb3-c4\r\n                  3.Qc6*c5 +\r\
+  \n                      3...Qh5*c5 #\r\n              2...Bh4*g3\r\n           \
+  \       3.Sb1-d2 +\r\n                      3...Kb3-b4\r\n                     \
+  \     4.Qc6*c5 +\r\n                              4...Qh5*c5 #\r\n      1...Bh4*g3\r\
+  \n          2.Se1*c2 +\r\n              2...Kb4*b3\r\n                  3.Sc2-a1\
+  \ +\r\n                      3...Kb3-b4\r\n                          4.Qc6*c5 +\r\
+  \n                              4...Qh5*c5 #\r\n                      3...Kb3-c4\r\
+  \n                          4.Qc6*c5 +\r\n                              4...Qh5*c5\
+  \ #\r\n      1...Bh4-g5\r\n          2.Sc3*a2 +\r\n              2...Ra3*a2\r\n\
+  \                  3.Bc1-d2 +\r\n                      3...Bg5*d2\r\n          \
+  \                4.Qc6*c5 +\r\n                              4...Qh5*c5 #\r\n  \
+  \    1...Qh5-g6\r\n          2.Sc3*a2 +\r\n              2...Ra3*a2\r\n        \
+  \          3.Se1*c2 +\r\n                      3...Qg6*c2\r\n                  \
+  \        4.Qc6*c5 +\r\n                              4...Qc2*c5 #\r\n      1...Qh5-d5\r\
+  \n          2.Sc3*a2 +\r\n              2...Ra3*a2\r\n                  3.Qc6*c5\
+  \ +\r\n                      3...Qd5*c5 #\r\n      1...Sf7-e5\r\n          2.Qc6*c5\
+  \ +\r\n              2...Kb4*b3\r\n                  3.Kb6-a5 +\r\n            \
+  \          3...Rh7*b7\r\n                          4.Qc5-d5 +\r\n              \
+  \                4...Se5-c4 #\r\n      1...Sf7-g5\r\n          2.b2*a3 +\r\n   \
+  \           2...Kb4*b3\r\n                  3.Kb6*c5 +\r\n                     \
+  \ 3...Rh7*b7\r\n                          4.Bc8-e6 +\r\n                       \
+  \       4...Sg5*e6 #"
+stipulation: s#4
+---
+algebraic:
+  black: [Sc2, Pe3, Ke4, Pb4, Se5, Rg6, Rb6, Pa6, Pc7, Pa7]
+  white: [Se1, Bb1, Rb2, Pg4, Kc5, Sa5, Bh6, Pc6, Qf7, Re7]
+authors: ['Гиндэ, Анатолий Алексеевич']
+date: '2011'
+options: []
+solution: !!python/unicode "1.Sa5-b7 ! threat:\r\n          2.Sb7-d6 +\r\n       \
+  \       2...Rg6*d6\r\n                  3.Qf7-d5 +\r\n                      3...Rd6*d5\
+  \ #\r\n          2.Rb2*b4 +\r\n              2...Rb6*b4\r\n                  3.Qf7-c4\
+  \ +\r\n                      3...Rb4*c4 #\r\n      1...b4-b3\r\n          2.Sb7-d6\
+  \ +\r\n              2...Rg6*d6\r\n                  3.Qf7-d5 +\r\n            \
+  \          3...Rd6*d5 #\r\n      1...a6-a5\r\n          2.Sb7-d6 +\r\n         \
+  \     2...Rg6*d6\r\n                  3.Qf7-d5 +\r\n                      3...Rd6*d5\
+  \ #\r\n      1...Rb6*b7\r\n          2.Rb2*b4 +\r\n              2...Rb7*b4\r\n\
+  \                  3.Qf7-c4 +\r\n                      3...Rb4*c4 #\r\n      1...Rg6*g4\r\
+  \n          2.Qf7-h7 +\r\n              2...Rg4-g6\r\n                  3.Sb7-d6\
+  \ +\r\n                      3...c7*d6 #\r\n      1...Rg6-g5\r\n          2.Rb2*b4\
+  \ +\r\n              2...Rb6*b4\r\n                  3.Qf7-c4 +\r\n            \
+  \          3...Rb4*c4 #\r\n      1...Rg6-e6\r\n          2.Sb7-d6 +\r\n        \
+  \      2...Re6*d6\r\n                  3.Qf7-d5 +\r\n                      3...Rd6*d5\
+  \ #\r\n      1...Rg6-g8\r\n          2.Qf7-h7 +\r\n              2...Rg8-g6\r\n\
+  \                  3.Sb7-d6 +\r\n                      3...c7*d6 #\r\n         \
+  \ 2.Rb2*b4 +\r\n              2...Rb6*b4\r\n                  3.Qf7-c4 +\r\n   \
+  \                   3...Rb4*c4 #\r\n      1...Rg6-g7\r\n          2.Rb2*b4 +\r\n\
+  \              2...Rb6*b4\r\n                  3.Qf7-c4 +\r\n                  \
+  \    3...Rb4*c4 #\r\n      1...Rg6*h6\r\n          2.Rb2*b4 +\r\n              2...Rb6*b4\r\
+  \n                  3.Qf7-c4 +\r\n                      3...Rb4*c4 #"
+stipulation: s#3
